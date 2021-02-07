@@ -17,7 +17,7 @@ which is part of a [paper](https://www.biorxiv.org/content/10.1101/440560v1.full
 
 This dataset has measurements of more than 1500 species of mammals, which was compiled from a large number of scientific publications. The dataset was released under the [Creative Commons CC0 License](https://creativecommons.org/share-your-work/public-domain/cc0) and is available on [Data Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2r62k7s). I have included it in this repository under `data/doi_10`.
 
-However, the animals in this dataset are identified by their scientific names. To make this dataset more accessible to the general audience, I have provided the common names in `data/brain_size_allometry_with_common_names.csv`. I used the [Species API](https://www.gbif.org/developer/species) of the [Global Biodiversity Information Facility](https://www.gbif.org) to query the common names of all the animals in the dataset. See [preprocessing.ipynb](./preprocessing.ipynb) for the generation of the derived dataset.
+However, the animals in this dataset are identified by their scientific names. To make this data more accessible to the general audience, I have provided the common names in `data/brain_size_allometry_with_common_names.csv`. For this purpose, I used the [Species API](https://www.gbif.org/developer/species) of the [Global Biodiversity Information Facility](https://www.gbif.org) to query the common names of all the animals in the dataset. See [preprocessing.ipynb](./preprocessing.ipynb) for the generation of this derived dataset.
 
 ### License
 This work is licensed under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). 
