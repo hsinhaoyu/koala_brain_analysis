@@ -1,0 +1,1547 @@
+order,family,genus,species,brain_mass,body_mass,common_name
+Afrosoricida,Chrysochloridae,Chrysochloris,stuhlmanni,1.06,50.05,Stuhlmann s Golden Mole
+Afrosoricida,Tenrecidae,Microgale,cowani,0.42,15.2,Cowan's Shrew Tenrec
+Afrosoricida,Tenrecidae,Microgale,dobsoni,0.56,32.6,Dobson's Shrew Tenrec
+Afrosoricida,Tenrecidae,Oryzorictes,hova,0.58,44.2,Hova rice tenrec
+Afrosoricida,Tenrecidae,Echinops,telfairi,0.62,87.5,Lesser Hedgehog Tenrec
+Afrosoricida,Chrysochloridae,Chrysochloris,asiatica,0.7,49,Cape Golden Mole
+Afrosoricida,Tenrecidae,Microgale,talazaci,0.79,50.4,Talazac's Shrew Tenrec
+Afrosoricida,Tenrecidae,Micropotamogale,lamottei,0.8,69.59,Nimba Otter Shrew
+Afrosoricida,Tenrecidae,Hemicentetes,semispinosus,0.83,110,Lowland Streaked Tenrec
+Afrosoricida,Tenrecidae,Limnogale,mergulus,1.15,92,Web-footed Tenrec
+Afrosoricida,Tenrecidae,Setifer,setosus,1.51,248,Greater Hedgehog Tenrec
+Afrosoricida,Tenrecidae,Tenrec,ecaudatus,2.84,907,Tail-less Tenrec
+Afrosoricida,Tenrecidae,Potamogale,velox,4.05,650,Giant Otter Shrew
+Artiodactyla,Bovidae,Tragelaphus,scriptus,165,44225,Bushbuck
+Artiodactyla,Cervidae,Rangifer,tarandus,278,71700,Reindeer
+Artiodactyla,Bovidae,Syncerus,caffer,647.5,665440,African Buffalo
+Artiodactyla,Cervidae,Odocoileus,virginianus,210,65090,White-tailed Deer
+Artiodactyla,Bovidae,Damaliscus,pygargus,254.6,62500,Bontebok (see comments)
+Artiodactyla,Bovidae,Tragelaphus,eurycerus,389,253000,Bongo
+Artiodactyla,Hippopotamidae,Hippopotamus,amphibius,720,1351000,Common Hippopotamus
+Artiodactyla,Bovidae,Tragelaphus,imberbis,219,145000,Lesser Kudu
+Artiodactyla,Bovidae,Kobus,leche,222.7,123000,Lechwe
+Artiodactyla,Bovidae,Tragelaphus,angasii,230,137000,Nyala
+Artiodactyla,Camelidae,Lama,glama,264.2,90217,Guanaco
+Artiodactyla,Bovidae,Hippotragus,niger,282,165000,Sable Antelope
+Artiodactyla,Bovidae,Alcelaphus,buselaphus,284.9,114750,Hartebeest
+Artiodactyla,Bovidae,Damaliscus,lunatus,290.6,111000,Common Tsessebe
+Artiodactyla,Bovidae,Oryx,gazella,292,165000,Gemsbok
+Artiodactyla,Bovidae,Tragelaphus,buxtoni,330,280000,Mountain Nyala
+Artiodactyla,Bovidae,Tragelaphus,strepsiceros,361,280000,Greater Kudu
+Artiodactyla,Bovidae,Hippotragus,equinus,387.9,238375,Roan Antelope
+Artiodactyla,Bovidae,Taurotragus,oryx,440,4e+05,Common Eland
+Artiodactyla,Bovidae,Bos,taurus,452.8,46100,Aurochs
+Artiodactyla,Bovidae,Bison,bison,458,431500,American Bison
+Artiodactyla,Bovidae,Taurotragus,derbianus,534,9e+05,Derby Eland
+Artiodactyla,Camelidae,Camelus,dromedarius,762,4e+05,Arabian Camel
+Artiodactyla,Bovidae,Madoqua,kirkii,37,4570,Kirk's Dikdik
+Artiodactyla,Bovidae,Eudorcas,thomsonii,91.8,24370,Thomson's Gazelle
+Artiodactyla,Suidae,Phacochoerus,aethiopicus,125,65320,Desert Warthog
+Artiodactyla,Bovidae,Aepyceros,melampus,175,57610,Impala
+Artiodactyla,Cervidae,Axis,axis,219,88450,Axis deer
+Artiodactyla,Bovidae,Kobus,ellipsiprymnus,290,188200,Waterbuck
+Artiodactyla,Bovidae,Connochaetes,taurinus,443,212230,Blue Wildebeest
+Artiodactyla,Giraffidae,Giraffa,camelopardalis,700,1209000,Giraffe
+Artiodactyla,Tragulidae,Tragulus,javanicus,15.8,2037,Java Mouse-deer
+Artiodactyla,Tragulidae,Moschiola,meminna,16.93,1997,Indian Spotted Chevrotain
+Artiodactyla,Tragulidae,Tragulus,napu,18.5,2510,Greater Mouse-deer
+Artiodactyla,Tragulidae,Hyemoschus,aquaticus,25.2,10800,Water Chevrotain
+Artiodactyla,Bovidae,Neotragus,moschatus,32,3250,Suni
+Artiodactyla,Bovidae,Philantomba,maxwellii,38,3357,Maxwell's Duiker
+Artiodactyla,Bovidae,Philantomba,monticola,48,5650,Blue Duiker
+Artiodactyla,Bovidae,Raphicerus,campestris,51.3,10200,Steenbok
+Artiodactyla,Cervidae,Hydropotes,inermis,52,11300,Chinese Water Deer
+Artiodactyla,Bovidae,Raphicerus,melanotis,55,10100,Cape Grysbok
+Artiodactyla,Cervidae,Mazama,americana,56,3500,South American Red Brocket
+Artiodactyla,Bovidae,Ourebia,ourebi,58.3,14617,Oribi
+Artiodactyla,Bovidae,Oreotragus,oreotragus,59.4,11000,Klipspringer
+Artiodactyla,Bovidae,Gazella,dorcas,70.8,17275,Dorcas Gazelle
+Artiodactyla,Bovidae,Sylvicapra,grimmia,77.2,12625,Bush Duiker
+Artiodactyla,Bovidae,Cephalophus,zebra,83,10000,Zebra Duiker
+Artiodactyla,Bovidae,Cephalophus,natalensis,84.1,12500,Natal duiker
+Artiodactyla,Bovidae,Cephalophus,nigrifrons,85,13650,Black-fronted Duiker
+Artiodactyla,Cervidae,Capreolus,capreolus,92.7,17472,European Roe
+Artiodactyla,Bovidae,Cephalophus,dorsalis,92.897,19998.6187,Bay Duier
+Artiodactyla,Bovidae,Cephalophus,leucogaster,93,13000,White-bellied Duiker
+Artiodactyla,Tayassuidae,Pecari,tajacu,101.5,18309,Collared Peccary
+Artiodactyla,Bovidae,Redunca,fulvorufula,109,31000,Mountain Reedbuck
+Artiodactyla,Bovidae,Antilope,cervicapra,110.8,28800,Blackbuck
+Artiodactyla,Bovidae,Capra,hircus,115,27660,Goat
+Artiodactyla,Bovidae,Litocranius,walleri,117.5,39750,Gerenuk
+Artiodactyla,Bovidae,Rupicapra,rupicapra,117.8,27167,Alpine Chamois
+Artiodactyla,Bovidae,Pelea,capreolus,121,24000,Vaal Rhebok
+Artiodactyla,Bovidae,Redunca,redunca,123,47500,Bohar reedbuck
+Artiodactyla,Cervidae,Muntiacus,muntjak,124.5,16600,Indian muntjac
+Artiodactyla,Antilocapridae,Antilocapra,americana,125.6,46750,Pronghorn
+Artiodactyla,Suidae,Babyrousa,babyrussa,127,78000,Buru Babirusa
+Artiodactyla,Suidae,Phacochoerus,africanus,132.5,67000,Common Wart-hog
+Artiodactyla,Bovidae,Antidorcas,marsupialis,135,36518,Springbok
+Artiodactyla,Bovidae,Redunca,arundinum,136.8,38200,Southern Reedbuck
+Artiodactyla,Suidae,Potamochoerus,porcus,138,75000,Red River Hog
+Artiodactyla,Bovidae,Nanger,granti,139,40500,Grant's Gazelle
+Artiodactyla,Bovidae,Ovis,ammon,140,55000,Argali
+Artiodactyla,Suidae,Hylochoerus,meinertzhageni,141,2e+05,Giant Forest Hog
+Artiodactyla,Cervidae,Axis,porcinus,142,30000,Hog Deer
+Artiodactyla,Bovidae,Tragelaphus,spekii,145,42000,Sitatunga
+Artiodactyla,Tayassuidae,Tayassu,pecari,145.8,32233.33,White-lipped Peccary
+Artiodactyla,Bovidae,Nanger,dama,150,60000,Dama Gazelle
+Artiodactyla,Bovidae,Hemitragus,jemlahicus,166,70000,Himalayan Tahr
+Artiodactyla,Suidae,Sus,scrofa,169.8,86772.73,Wild Boar
+Artiodactyla,Bovidae,Cephalophus,silvicultor,170,43000,Yellow-backed Duiker
+Artiodactyla,Bovidae,Ovis,aries,175,55500,Red Sheep
+Artiodactyla,Bovidae,Addax,nasomaculatus,185,107000,Addax
+Artiodactyla,Cervidae,Odocoileus,hemionus,189.3,58990,Mule Deer
+Artiodactyla,Camelidae,Vicugna,vicugna,199.9,46215,Vicugna
+Artiodactyla,Cervidae,Cervus,nippon,200,46000,Sika
+Artiodactyla,Bovidae,Kobus,kob,204,117500,Kob
+Artiodactyla,Bovidae,Ammotragus,lervia,209,110000,Barbary Sheep
+Artiodactyla,Hippopotamidae,Hexaprotodon,liberiensis,215,81000,Pygmy Hippopotamus
+Artiodactyla,Bovidae,Boselaphus,tragocamelus,271.75,125000,Nilgai
+Artiodactyla,Bovidae,Oryx,beisa,282,175000,Beisa
+Artiodactyla,Bovidae,Bos,grunniens,334,250000,Yak
+Artiodactyla,Bovidae,Alcelaphus,lichtensteinii,357,165000,Lichtenstein's Hartebeest
+Artiodactyla,Cervidae,Alces,americanus,407,272000,Moose
+Artiodactyla,Cervidae,Alces,alces,436,2e+05,Elk
+Artiodactyla,Giraffidae,Okapia,johnstoni,501,240000,Okapi
+Artiodactyla,Camelidae,Camelus,bactrianus,575,4e+05,Bactrian Camel
+Carnivora,Mustelidae,Mustela,erminea,4.57,156.43,Ermine
+Carnivora,Mephitidae,Mephitis,mephitis,10.15,1980,Striped Skunk
+Carnivora,Phocidae,Pusa,caspica,162.5,62750,Caspian Seal
+Carnivora,Phocidae,Pusa,sibirica,187.5,89500,Baikal Seal
+Carnivora,Phocidae,Pusa,hispida,196.25,69085,Ringed Seal
+Carnivora,Phocidae,Histriophoca,fasciata,248.75,87580,Ribbon Seal
+Carnivora,Phocidae,Phoca,largha,253.75,91500,Spotted Seal
+Carnivora,Felidae,Panthera,tigris,269.73,195000,Tiger
+Carnivora,Otariidae,Arctocephalus,galapagoensis,291.25,45950,Galapagos Fur Seal
+Carnivora,Otariidae,Arctocephalus,australis,307.5,103750,Australian sea lion
+Carnivora,Phocidae,Halichoerus,grypus,307.5,194000,Atlantic gray seal
+Carnivora,Otariidae,Arctocephalus,forsteri,320,109690,Antipodean fur seal
+Carnivora,Otariidae,Arctocephalus,tropicalis,326.25,101250,Amsterdam fur seal
+Carnivora,Otariidae,Callorhinus,ursinus,334.83,150916.67,Northern Fur Seal
+Carnivora,Ursidae,Ursus,arctos,335.97,131022.67,Brown Bear
+Carnivora,Otariidae,Arctocephalus,gazella,340,96600,Antarctic Fur Seal
+Carnivora,Otariidae,Arctocephalus,pusillus,369.38,178750,Brown Fur Seal
+Carnivora,Otariidae,Neophoca,cinerea,388.75,189275,Australian Sealion
+Carnivora,Otariidae,Phocarctos,hookeri,393.75,273500,Auckland sea lion
+Carnivora,Phocidae,Cystophora,cristata,455,282840,Hooded Seal
+Carnivora,Phocidae,Monachus,monachus,480,280500,Mediterranean Monk Seal
+Carnivora,Phocidae,Ommatophoca,rossii,495,179400,Ross Seal
+Carnivora,Otariidae,Otaria,flavescens,506.25,222000,South American Sealion
+Carnivora,Ursidae,Ursus,maritimus,507,317000,Polar Bear
+Carnivora,Phocidae,Leptonychotes,weddellii,564.17,378666.67,Weddell Seal
+Carnivora,Phocidae,Lobodon,carcinophaga,586.25,222250,Crabeater Seal
+Carnivora,Otariidae,Eumetopias,jubatus,661.25,643775,Northern Sea Lion
+Carnivora,Phocidae,Hydrurga,leptonyx,712.5,345500,Leopard seal
+Carnivora,Phocidae,Mirounga,leonina,1205,2006500,Southern Elephant Seal
+Carnivora,Odobenidae,Odobenus,rosmarus,1410.25,1022225,Walrus
+Carnivora,Canidae,Vulpes,vulpes,49.64,3722.71,Red Fox
+Carnivora,Viverridae,Genetta,tigrina,15.35,1525,Cape Genet
+Carnivora,Canidae,Otocyon,megalotis,26.09,3335,Bat-eared Fox
+Carnivora,Procyonidae,Potos,flavus,33.08,2241.5,Kinkajou
+Carnivora,Procyonidae,Nasua,nasua,37.5,3187.5,Brown-nosed Coati
+Carnivora,Procyonidae,Bassariscus,sumichrasti,41.9,2722,Cacomistle
+Carnivora,Ursidae,Melursus,ursinus,267,136080,Sloth Bear
+Carnivora,Ursidae,Helarctos,malayanus,385.5,45020,Malayan Sun Bear
+Carnivora,Phocidae,Erignathus,barbatus,460,281000,Bearded Seal
+Carnivora,Phocidae,Pagophilus,groenlandicus,275,132250,Harp Seal
+Carnivora,Phocidae,Mirounga,angustirostris,670,7e+05,Northern Elephant Seal
+Carnivora,Procyonidae,Procyon,lotor,41.07,4975.67,Northern Raccoon
+Carnivora,Procyonidae,Nasua,narica,44.17,6250,White-nosed Coati
+Carnivora,Phocidae,Phoca,vitulina,315,73635,Common seal
+Carnivora,Mustelidae,Mustela,putorius,7.87,915,European Polecat
+Carnivora,Herpestidae,Ichneumia,albicauda,28.3,4400,White-tailed Mongoose
+Carnivora,Canidae,Urocyon,cinereoargenteus,37.28,3749,Common Gray Fox
+Carnivora,Felidae,Leptailurus,serval,54.1,11340,Serval
+Carnivora,Felidae,Leopardus,pardalis,63.1,9525.5,Ocelot
+Carnivora,Felidae,Lynx,rufus,65,6350,Bobcat
+Carnivora,Felidae,Lynx,canadensis,69.5,14969,Canada Lynx
+Carnivora,Felidae,Panthera,pardus,135,48000,Leopard
+Carnivora,Felidae,Puma,concolor,154,54432,Cougar
+Carnivora,Ursidae,Ursus,americanus,248,25990,American Black Bear
+Carnivora,Phocidae,Monachus,schauinslandi,370,173000,Hawaiian Monk Seal
+Carnivora,Otariidae,Arctocephalus,philippii,415,140000,Juan Fernandez fur seal
+Carnivora,Viverridae,Genetta,pardina,15.4,1032,Pardine Genet
+Carnivora,Mustelidae,Mustela,nivalis,2,60,Least Weasel
+Carnivora,Mustelidae,Mustela,frenata,4,165,Long-tailed Weasel
+Carnivora,Mustelidae,Mustela,altaica,4.48,190,Mountain Weasel
+Carnivora,Mustelidae,Ictonyx,libyca,4.48,230,Saharan Striped Polecat
+Carnivora,Mustelidae,Poecilogale,albinucha,4.5,250,African Striped Weasel
+Carnivora,Herpestidae,Helogale,parvula,4.8,267,Common Dwarf Mongoose
+Carnivora,Mustelidae,Vormela,peregusna,4.8,448,Marbled Polecat
+Carnivora,Mephitidae,Spilogale,putorius,5,326,Eastern Spotted Skunk
+Carnivora,Mustelidae,Mustela,sibirica,6,395,Siberian Weasel
+Carnivora,Mephitidae,Spilogale,gracilis,6.81,420,Western Spotted Skunk
+Carnivora,Mustelidae,Neovison,vison,7,645,American Mink
+Carnivora,Herpestidae,Herpestes,javanicus,7.2,527,Indian Mongoose
+Carnivora,Mustelidae,Mustela,lutreolina,8.5,538,Indonesian Mountain Weasel
+Carnivora,Mustelidae,Mustela,lutreola,8.5,590,European Mink
+Carnivora,Viverridae,Prionodon,linsang,8.5,698,Banded Linsang
+Carnivora,Mustelidae,Ictonyx,striatus,8.5,713,Striped Polecat
+Carnivora,Mustelidae,Mustela,nigripes,8.5,809,Black-footed Ferret
+Carnivora,Herpestidae,Galerella,sanguinea,8.8,533,Slender Mongoose
+Carnivora,Viverridae,Prionodon,pardicolor,9.03,450,Spotted Linsang
+Carnivora,Herpestidae,Crossarchus,obscurus,9.99,865,Common Kusimanse
+Carnivora,Herpestidae,Suricata,suricatta,10.3,725,Meerkat
+Carnivora,Herpestidae,Herpestes,edwardsi,10.49,1260,Indian Gray Mongoose
+Carnivora,Herpestidae,Cynictis,penicillata,10.5,571,Yellow Mongoose
+Carnivora,Herpestidae,Mungos,mungo,10.5,860,Banded Mongoose
+Carnivora,Eupleridae,Galidia,elegans,10.7,914,Ring-tailed Mongoose
+Carnivora,Eupleridae,Salanoia,concolor,11.02,780,Brown Mongoose
+Carnivora,Herpestidae,Galerella,pulverulenta,11.02,840,Cape Gray Mongoose
+Carnivora,Herpestidae,Herpestes,fuscus,12.55,1120,Indian Brown Mongoose
+Carnivora,Mephitidae,Conepatus,humboldtii,12.6,1294,Humboldt's Hog-nosed Skunk
+Carnivora,Viverridae,Genetta,genetta,14,1820,Common Genet
+Carnivora,Mephitidae,Conepatus,leuconotus,14.4,2010,American Hog-nosed Skunk
+Carnivora,Herpestidae,Herpestes,smithii,14.6,1205,Ruddy Mongoose
+Carnivora,Mephitidae,Mydaus,marchei,14.87,1414,Palawan Stink Badger
+Carnivora,Viverridae,Genetta,angolensis,15.49,2100,Angolan Genet
+Carnivora,Mustelidae,Martes,americana,15.8,860,American Marten
+Carnivora,Herpestidae,Paracynictis,selousi,15.8,1700,Selous  Mongoose
+Carnivora,Procyonidae,Bassariscus,astutus,16,985,Ring-tailed cat, Cacomistle
+Carnivora,Viverridae,Genetta,servalina,16,1295,Servaline Genet
+Carnivora,Viverridae,Viverricula,indica,16.78,2660,Small Indian Civet
+Carnivora,Herpestidae,Bdeogale,crassicauda,16.95,1250,Bushy-tailed Mongoose
+Carnivora,Herpestidae,Rhynchogale,melleri,16.95,2720,Meller s Mongoose
+Carnivora,Eupleridae,Eupleres,goudotii,17,1850,Falanouc
+Carnivora,Canidae,Vulpes,zerda,17.3,969,Fennec
+Carnivora,Nandiniidae,Nandinia,binotata,17.3,3190,African Palm Civet
+Carnivora,Viverridae,Paradoxurus,zeylonensis,17.81,2720,Golden Palm Civet
+Carnivora,Mustelidae,Galictis,vittata,17.97,1328,Greater Grison
+Carnivora,Mustelidae,Martes,martes,18,982,European Pine Marten
+Carnivora,Mustelidae,Martes,zibellina,18.5,1130,Sable
+Carnivora,Mephitidae,Conepatus,chinga,18.7,1587,Molina's Hog-nosed Skunk
+Carnivora,Mustelidae,Galictis,cuja,18.8,1190,Lesser Grison
+Carnivora,Viverridae,Hemigalus,derbyanus,18.9,2041,Banded Palm Civet
+Carnivora,Felidae,Prionailurus,rubiginosus,18.92,1420,Rusty-Spotted Cat
+Carnivora,Procyonidae,Bassaricyon,gabbii,19.3,1250,Bushy-tailed olingo
+Carnivora,Procyonidae,Bassaricyon,alleni,19.37,1235,Allen's Olingo
+Carnivora,Mephitidae,Mydaus,javanensis,19.49,2510,Indonesian Stink Badger
+Carnivora,Eupleridae,Fossa,fossana,19.69,1500,Malagasy Civet
+Carnivora,Felidae,Felis,nigripes,20.1,1100,African black-footed cat
+Carnivora,Mustelidae,Martes,foina,20.9,1450,Beech Marten
+Carnivora,Herpestidae,Herpestes,urva,20.91,2360,Crab-eating Mongoose
+Carnivora,Felidae,Prionailurus,planiceps,21.98,2100,Flat-headed Cat
+Carnivora,Viverridae,Arctogalidia,trivirgata,21.98,2460,Small-toothed Palm Civet
+Carnivora,Herpestidae,Herpestes,ichneumon,23.3,3265,Egyptian Mongoose
+Carnivora,Viverridae,Viverra,tangalunga,24.1,4710,Malayan Civet
+Carnivora,Canidae,Vulpes,bengalensis,24.5,2260,Bengal Fox
+Carnivora,Canidae,Vulpes,pallida,25.03,3600,Pale Fox
+Carnivora,Herpestidae,Herpestes,naso,25.53,3000,Long-nosed Mongoose
+Carnivora,Felidae,Felis,catus,25.6,3300,Domestic Cat
+Carnivora,Herpestidae,Herpestes,vitticollis,25.79,2290,Stripe-necked Mongoose
+Carnivora,Canidae,Vulpes,rueppellii,25.8,2250,Ru[..]ppell's fox
+Carnivora,Viverridae,Paradoxurus,hermaphroditus,25.95,2773.5,Asian Palm Civet
+Carnivora,Canidae,Urocyon,littoralis,27.7,1896,Channel Islands Gray Fox
+Carnivora,Herpestidae,Atilax,paludinosus,28.5,3670,Marsh Mongoose
+Carnivora,Canidae,Nyctereutes,procyonoides,28.5,4020,Asiatic Raccoon
+Carnivora,Mustelidae,Martes,pennanti,29,2250,Fisher
+Carnivora,Felidae,Prionailurus,bengalensis,29.37,5470,Leopard Cat
+Carnivora,Viverridae,Cynogale,bennettii,29.96,4010,Otter Civet
+Carnivora,Viverridae,Paguma,larvata,30.9,4800,Gem-faced civet
+Carnivora,Canidae,Vulpes,velox,32.1,2345,Swift Fox
+Carnivora,Eupleridae,Cryptoprocta,ferox,32.1,6775,Fossa
+Carnivora,Mustelidae,Hydrictis,maculicollis,33,4300,Spotted-necked Otter
+Carnivora,Canidae,Vulpes,chama,33.5,2955,Cape Fox
+Carnivora,Felidae,Leopardus,geoffroyi,34,3590,Geoffroy's Cat
+Carnivora,Mustelidae,Martes,flavigula,34.12,2510,Yellow-throated Marten
+Carnivora,Felidae,Felis,manul,34.47,3000,Pallas' Cat
+Carnivora,Hyaenidae,Proteles,cristata,35.2,8820,Aardwolf
+Carnivora,Canidae,Vulpes,lagopus,35.5,3415,Arctic Fox
+Carnivora,Felidae,Felis,silvestris,35.5,4130,Common Wild Cat
+Carnivora,Viverridae,Viverra,megaspila,36.6,8500,Large-spotted Civet
+Carnivora,Felidae,Felis,chaus,37,5050,Jungle Cat
+Carnivora,Viverridae,Viverra,zibetha,37,8500,Large Indian Civet
+Carnivora,Viverridae,Civettictis,civetta,37,11250,African Civet
+Carnivora,Mustelidae,Aonyx,cinerea,38.09,4060,Asian Small-clawed Otter
+Carnivora,Mustelidae,Lontra,felina,38.9,4000,Marine Otter
+Carnivora,Mustelidae,Lutra,lutra,39,6750,Common Otter
+Carnivora,Canidae,Lycalopex,gymnocercus,40,4350,Pampas Fox
+Carnivora,Canidae,Speothos,venaticus,40.5,5990,Bush Dog
+Carnivora,Viverridae,Arctictis,binturong,40.85,11470,Bear-cat
+Carnivora,Felidae,Puma,yagouaroundi,40.9,2485,Jaguarundi
+Carnivora,Viverridae,Viverra,civettina,42.1,8500,Malabar Large-spotted Civet
+Carnivora,Canidae,Lycalopex,griseus,42.47,4324,South American Gray Fox
+Carnivora,Mustelidae,Meles,meles,45.5,10100,Badger
+Carnivora,Felidae,Prionailurus,viverrinus,46.53,8410,Fishing Cat
+Carnivora,Ailuridae,Ailurus,fulgens,46.8,5590,Red Panda
+Carnivora,Mustelidae,Eira,barbara,47.05,2668,Tayra
+Carnivora,Mustelidae,Taxidea,taxus,48.9,7425,American Badger
+Carnivora,Mustelidae,Arctonyx,collaris,49.4,10490,Hog Badger
+Carnivora,Canidae,Cerdocyon,thous,49.5,5600,Crab-eating Fox
+Carnivora,Mustelidae,Lontra,canadensis,50.5,7850,Canadian otter
+Carnivora,Canidae,Canis,adustus,50.8,6155,Side-striped Jackal
+Carnivora,Canidae,Lycalopex,culpaeus,51.4,8840,Culpeo
+Carnivora,Felidae,Caracal,caracal,51.9,7690,Caracal
+Carnivora,Canidae,Canis,mesomelas,54.8,8000,Black-backed Jackal
+Carnivora,Mustelidae,Lontra,longicaudis,57.4,8000,Amazonian river otter
+Carnivora,Felidae,Profelis,aurata,57.97,11940,African Golden Cat
+Carnivora,Mustelidae,Lutrogale,perspicillata,61,7300,Smooth-coated Otter
+Carnivora,Mustelidae,Melogale,personata,61.4,14042,Burmese Ferret-badger
+Carnivora,Procyonidae,Procyon,cancrivorus,61.56,6931.72,Crab-eating Raccoon
+Carnivora,Canidae,Atelocynus,microtis,62.18,9030,Short-eared Dog
+Carnivora,Felidae,Catopuma,temminckii,68.03,4220,Asian Golden Cat
+Carnivora,Felidae,Lynx,lynx,68.5,17200,Eurasian Lynx
+Carnivora,Felidae,Neofelis,nebulosa,68.7,19490,Clouded Leopard
+Carnivora,Canidae,Canis,aureus,72.2,7150,Eurasian Golden Jackal
+Carnivora,Mustelidae,Gulo,gulo,72.5,10600,Glutton
+Carnivora,Mustelidae,Mellivora,capensis,72.97,8080,Honey Badger
+Carnivora,Canidae,Canis,latrans,84.5,9760,Coyote
+Carnivora,Mustelidae,Pteronura,brasiliensis,85.6,24000,Giant Otter
+Carnivora,Canidae,Cuon,alpinus,94.6,13800,Asiatic Wild Dog
+Carnivora,Mustelidae,Aonyx,capensis,94.6,19110,African Clawless Otter
+Carnivora,Hyaenidae,Hyaena,hyaena,97.5,36300,Striped Hyena
+Carnivora,Felidae,Uncia,uncia,101.5,32500,Snow leopard
+Carnivora,Hyaenidae,Hyaena,brunnea,106.7,39300,Brown Hyena
+Carnivora,Felidae,Acinonyx,jubatus,111,43000,Cheetah
+Carnivora,Mustelidae,Enhydra,lutris,119,23600,Sea Otter
+Carnivora,Canidae,Chrysocyon,brachyurus,120.3,23250,Maned Wolf
+Carnivora,Canidae,Lycaon,pictus,129,22050,African Wild Dog
+Carnivora,Canidae,Canis,lupus,130,31100,Gray Wolf
+Carnivora,Felidae,Panthera,onca,149,77700,Jaguar
+Carnivora,Hyaenidae,Crocuta,crocuta,175,62370,Spotted Hyena
+Carnivora,Ursidae,Ailuropoda,melanoleuca,205,87500,Bamboo Bear
+Carnivora,Felidae,Panthera,leo,259.5,84000,African lion
+Carnivora,Ursidae,Ursus,thibetanus,269,69860,Asian Black Bear
+Carnivora,Otariidae,Zalophus,californianus,405,91000,California Sealion
+Cetacea,Delphinidae,Delphinus,delphis,797.26,65086.96,Short-beaked Common Dolphin
+Cetacea,Delphinidae,Lagenorhynchus,obliquidens,1136.75,89750,Pacific White-sided Dolphin
+Cetacea,Delphinidae,Tursiops,truncatus,1573,170480,Bottle-nosed Dolphin
+Cetacea,Delphinidae,Stenella,longirostris,450,33600,Spinner Dolphin
+Cetacea,Phocoenidae,Phocoenoides,dalli,833.67,98333.33,Dall s Porpoise
+Cetacea,Delphinidae,Stenella,coeruleoalba,883.75,63500,Striped Dolphin
+Cetacea,Monodontidae,Delphinapterus,leucas,1921,498250,Beluga
+Cetacea,Delphinidae,Pseudorca,crassidens,4307,2e+06,False Killer Whale
+Cetacea,Phocoenidae,Phocoena,phocoena,1735,142430,Common Porpoise
+Cetacea,Balaenopteridae,Balaenoptera,physalus,5100,62500000,Fin Whale
+Cetacea,Delphinidae,Orcinus,orca,6052,3273000,Killer Whale
+Cetacea,Platanistidae,Platanista,gangetica,290.5,59630,Bhulan
+Cetacea,Phocoenidae,Neophocaena,phocaenoides,468,32400,Finless Porpoise
+Cetacea,Iniidae,Lipotes,vexillifer,558,180000,Baiji
+Cetacea,Phocoenidae,Phocoena,spinipinnis,597,68041.9,Burmeister s Porpoise
+Cetacea,Physeteridae,Kogia,sima,622,168500,Dwarf Sperm Whale
+Cetacea,Iniidae,Inia,geoffrensis,633.645,92003.5,Amazon River Dolphin
+Cetacea,Delphinidae,Sotalia,fluviatilis,688,42240,Gray Dolphin
+Cetacea,Delphinidae,Cephalorhynchus,commersonii,725,48000,Commerson s Dolphin
+Cetacea,Delphinidae,Cephalorhynchus,heavisidii,763,71000,Haviside s Dolphin
+Cetacea,Delphinidae,Stenella,attenuata,779.83,65614.53,Pantropical Spotted Dolphin
+Cetacea,Delphinidae,Lagenorhynchus,obscurus,886.1,58473.1,Dusky Dolphin
+Cetacea,Physeteridae,Kogia,breviceps,1019,334000,Pygmy Sperm Whale
+Cetacea,Delphinidae,Lagenorhynchus,acutus,1103.17,244605,Atlantic White-sided Dolphin
+Cetacea,Delphinidae,Lagenorhynchus,albirostris,1126,67500,White-beaked Dolphin
+Cetacea,Delphinidae,Lissodelphis,borealis,1162,73000,Northern Right Whale Dolphin
+Cetacea,Ziphiidae,Mesoplodon,densirostris,1424.5,770500,Blainville s Beaked Whale
+Cetacea,Delphinidae,Tursiops,aduncus,1498,141150,Indian Ocean bottlenose dolphin
+Cetacea,Delphinidae,Steno,bredanensis,1541.9,123830.9,Rough-toothed Dolphin
+Cetacea,Ziphiidae,Ziphius,cavirostris,2004,2273000.001,Cuvier s Beaked Whale
+Cetacea,Ziphiidae,Mesoplodon,europaeus,2149,732500,Antillean beaked whale
+Cetacea,Ziphiidae,Mesoplodon,mirus,2355,929500,True s Beaked Whale
+Cetacea,Delphinidae,Globicephala,macrorhynchus,2466,386000,Short-finned Pilot Whale
+Cetacea,Delphinidae,Grampus,griseus,2551,4e+05,Risso s Dolphin
+Cetacea,Delphinidae,Globicephala,melas,2673,1061000,Long-finned Pilot Whale
+Cetacea,Balaenidae,Balaena,mysticetus,2738,90999999.93,Bowhead
+Cetacea,Balaenopteridae,Balaenoptera,acutorostrata,2850,5587093.59,Common Minke Whale
+Cetacea,Monodontidae,Monodon,monoceros,2993.7,1578329.998,Narwhal
+Cetacea,Balaenopteridae,Balaenoptera,musculus,3636,50903999.97,Blue Whale
+Cetacea,Eschrichtiidae,Eschrichtius,robustus,4316.67,30000000.02,Gray Whale
+Cetacea,Balaenopteridae,Balaenoptera,borealis,4900,36666666.67,Sei Whale
+Cetacea,Balaenopteridae,Megaptera,novaeangliae,6100,30050000,Humpback Whale
+Cetacea,Physeteridae,Physeter,catodon,8183,37416650.04,Sperm Whale
+Chiroptera,Emballonuridae,Rhynchonycteris,naso,0.11,4.3,Proboscis Bat
+Chiroptera,Vespertilionidae,Myotis,nigricans,0.127,4.45,Black Myotis
+Chiroptera,Rhinolophidae,Rhinolophus,hipposideros,0.1495,4.55,Lesser Horseshoe Bat
+Chiroptera,Vespertilionidae,Myotis,mystacinus,0.15717,4.85,Whiskered Myotis
+Chiroptera,Vespertilionidae,Myotis,nattereri,0.22,7.15,Natterer's Bat
+Chiroptera,Emballonuridae,Saccopteryx,bilineata,0.2252,7.78,Greater Sac-winged Bat
+Chiroptera,Hipposideridae,Hipposideros,bicolor,0.23833,8.38,Bicolored Leaf-nosed Bat
+Chiroptera,Hipposideridae,Hipposideros,caffer,0.313,10.9,Sundevall's Leaf-nosed Bat
+Chiroptera,Mormoopidae,Pteronotus,davyi,0.32,10.6,Davy's Naked-backed Bat
+Chiroptera,Vespertilionidae,Eptesicus,serotinus,0.327,22.15,Common Serotine
+Chiroptera,Phyllostomidae,Mimon,crenulatum,0.33367,13.78,Striped Hairy-nosed Bat
+Chiroptera,Rhinolophidae,Rhinolophus,ferrumequinum,0.35,23.5,Greater Horseshoe Bat
+Chiroptera,Nycteridae,Nycteris,arge,0.35567,10.65,Bate's Slit-faced Bat
+Chiroptera,Vespertilionidae,Nyctalus,noctula,0.362,26,Noctule
+Chiroptera,Mormoopidae,Mormoops,megalophylla,0.40033,15.53,Peter's ghost-faced bat
+Chiroptera,Phyllostomidae,Glossophaga,soricina,0.41267,10.23,Pallas's Long-tongued Bat
+Chiroptera,Vespertilionidae,Vespertilio,murinus,0.445,33.3,Parti-coloured bat
+Chiroptera,Vespertilionidae,Myotis,myotis,0.489,27.92,Greater mouse-eared bat
+Chiroptera,Phyllostomidae,Platyrrhinus,helleri,0.48967,12.77,Heller's Broad-nosed Bat
+Chiroptera,Phyllostomidae,Carollia,perspicillata,0.50867,17.07,Seba's Short-tailed Bat
+Chiroptera,Phyllostomidae,Uroderma,bilobatum,0.57733,15.63,Common Tent-making Bat
+Chiroptera,Phyllostomidae,Sturnira,lilium,0.58433,18.67,Little Yellow-shouldered Bat
+Chiroptera,Phyllostomidae,Leptonycteris,curasoae,0.5875,25,Curaçaoan Long-nosed Bat
+Chiroptera,Pteropodidae,Casinycteris,argynnis,0.86483,30.72,Golden Short-palated Fruit Bat
+Chiroptera,Phyllostomidae,Desmodus,rotundus,0.916,33.26,Common Vampire Bat
+Chiroptera,Pteropodidae,Cynopterus,brachyotis,0.95275,32.11,Lesser Short-nosed Fruit Bat
+Chiroptera,Phyllostomidae,Diaemus,youngi,0.971,34.67,White-winged Vampire Bat
+Chiroptera,Phyllostomidae,Artibeus,jamaicensis,0.98025,39.33,Jamaican Fruit-eating Bat
+Chiroptera,Phyllostomidae,Phyllostomus,discolor,1.101333,35.22,Pale Spear-nosed Bat
+Chiroptera,Phyllostomidae,Artibeus,lituratus,1.171,56.73,Great Fruit-eating Bat
+Chiroptera,Noctilionidae,Noctilio,leporinus,1.184,59.16,Greater Bulldog Bat
+Chiroptera,Pteropodidae,Cynopterus,horsfieldii,1.3495,56.88,Horsfield s Fruit Bat
+Chiroptera,Pteropodidae,Rousettus,aegyptiacus,2.26075,129.62,Egyptian Rousette
+Chiroptera,Pteropodidae,Hypsignathus,monstrosus,3.41475,324.63,Hammer-headed Fruit Bat
+Chiroptera,Pteropodidae,Epomophorus,gambianus,4.3285,309,Gambian Epauletted Fruit Bat
+Chiroptera,Pteropodidae,Pteropus,vampyrus,9.654,1078.07,Large Flying Fox
+Chiroptera,Pteropodidae,Pteropus,melanotus,10.6,1261.4,Black-eared Flying Fox
+Chiroptera,Vespertilionidae,Tylonycteris,pachypus,0.077,4.6,Lesser Bamboo Bat
+Chiroptera,Craseonycteridae,Craseonycteris,thonglongyai,0.087,2.56,Bumblebee Bat
+Chiroptera,Vespertilionidae,Glischropus,tylopus,0.099,4.95,Common Thick-thumbed Bat
+Chiroptera,Vespertilionidae,Neoromicia,nanus,0.1,3.9,Banana Pipistrelle
+Chiroptera,Vespertilionidae,Myotis,siligorensis,0.103,3.46,Himalayan Whiskered Myotis
+Chiroptera,Vespertilionidae,Pipistrellus,coromandra,0.105,4.6,Indian Pipistrelle
+Chiroptera,Vespertilionidae,Rhogeessa,tumida,0.1055,5.05,Black-winged Little Yellow Bat
+Chiroptera,Vespertilionidae,Pipistrellus,papuanus,0.11,3.34,Lesser Papuan Pipistrelle
+Chiroptera,Vespertilionidae,Rhogeessa,parvula,0.111,4.35,Little Yellow Bat
+Chiroptera,Vespertilionidae,Pipistrellus,tenuis,0.113,5.2,Least Pipistrelle
+Chiroptera,Vespertilionidae,Kerivoula,phalaena,0.116,3,Spurrell's Woolly Bat
+Chiroptera,Vespertilionidae,Tylonycteris,robustula,0.116,7.6,Greater Bamboo Bat
+Chiroptera,Vespertilionidae,Pipistrellus,javanicus,0.119,4.5,Javan Pipistrelle
+Chiroptera,Vespertilionidae,Vespadelus,pumilus,0.122,5.45,Eastern Forest Bat
+Chiroptera,Vespertilionidae,Myotis,muricola,0.125,4.95,Nepalese Whiskered Myotis
+Chiroptera,Vespertilionidae,Pipistrellus,subflavus,0.125,5.3,Eastern Pipistrelle
+Chiroptera,Vespertilionidae,Myotis,albescens,0.126,4,Silver-tipped Myotis
+Chiroptera,Furipteridae,Furipterus,horrens,0.127,3.43,Thumbless Bat
+Chiroptera,Emballonuridae,Saccopteryx,canescens,0.13,3.4,Frosted Sac-winged Bat
+Chiroptera,Vespertilionidae,Myotis,yumanensis,0.13,4.6,Yuma Myotis
+Chiroptera,Vespertilionidae,Hypsugo,crassulus,0.132,6.1,Broad-headed Pipistrelle
+Chiroptera,Vespertilionidae,Myotis,fortidens,0.1325,4.35,Cinnamon Myotis
+Chiroptera,Hipposideridae,Aselliscus,tricuspidatus,0.134,4.4,Temminck's Asian Trident Bat
+Chiroptera,Vespertilionidae,Hypsugo,imbricatus,0.137,6.8,Brown Pipistrelle
+Chiroptera,Vespertilionidae,Hypsugo,pulveratus,0.143,5.3,Chinese Pipistrelle
+Chiroptera,Vespertilionidae,Scotozous,dormeri,0.143,6.8,Dormer's Pipistrelle
+Chiroptera,Vespertilionidae,Glauconycteris,beatrix,0.144,5.5,Beatrix Butterfly Bat
+Chiroptera,Emballonuridae,Peropteryx,trinitatis,0.1495,5,Trinidad Dog-like Bat
+Chiroptera,Hipposideridae,Aselliscus,stoliczkanus,0.15,4.9,Stoliczka's Asian Trident Bat
+Chiroptera,Hipposideridae,Hipposideros,halophyllus,0.152,4,Thailand Leaf-nosed Bat
+Chiroptera,Emballonuridae,Peropteryx,macrotis,0.1566,5.4,Lesser Dog-like Bat
+Chiroptera,Vespertilionidae,Eptesicus,pachyotis,0.158,6.6,Thick-eared Bat
+Chiroptera,Vespertilionidae,Hesperoptenus,blanfordi,0.158,7.3,Blanford's Bat
+Chiroptera,Vespertilionidae,Scotorepens,sanborni,0.158,9.1,Northern Broad-nosed Bat
+Chiroptera,Emballonuridae,Saccopteryx,leptura,0.1605,4.9,Lesser Sac-winged Bat
+Chiroptera,Vespertilionidae,Myotis,lucifugus,0.16133,8,Little Brown Myotis
+Chiroptera,Emballonuridae,Emballonura,monticola,0.163,5.4,Lesser Sheath-tailed Bat
+Chiroptera,Rhinolophidae,Rhinolophus,pusillus,0.164,4.7,Least Horseshoe Bat
+Chiroptera,Vespertilionidae,Pipistrellus,kuhlii,0.166,6.3,Kuhl's Pipistrelle
+Chiroptera,Vespertilionidae,Nyctophilus,geoffroyi,0.167,7.2,Lesser Long-eared Bat
+Chiroptera,Vespertilionidae,Miniopterus,australis,0.17,7.1,Little Long-fingered Bat
+Chiroptera,Vespertilionidae,Lasiurus,borealis,0.17,7.7,Eastern Red Bat
+Chiroptera,Vespertilionidae,Myotis,montivagus,0.17,8.3,Burmese Whiskered Myotis
+Chiroptera,Vespertilionidae,Myotis,riparius,0.173,7.95,Riparian Myotis
+Chiroptera,Emballonuridae,Emballonura,raffrayana,0.174,5.9,Raffray's Sheath-tailed Bat
+Chiroptera,Emballonuridae,Cyttarops,alecto,0.175,5.3,Short-eared Bat
+Chiroptera,Molossidae,Molossops,temminckii,0.181,6.8,Dwarf Dog-faced Bat
+Chiroptera,Vespertilionidae,Pipistrellus,ceylonicus,0.182,10.1,Kelaart's Pipistrelle
+Chiroptera,Vespertilionidae,Barbastella,barbastellus,0.184,6,Barbastelle
+Chiroptera,Emballonuridae,Emballonura,semicaudata,0.184,7,Mariana sheath-tailed bat
+Chiroptera,Vespertilionidae,Chalinolobus,morio,0.1845,8.35,Chocolate Wattled Bat
+Chiroptera,Molossidae,Cynomops,planirostris,0.185,7.25,Southern Dog-faced Bat
+Chiroptera,Vespertilionidae,Phoniscus,atrox,0.188,4.2,Groove-toothed Trumpet-eared Bat
+Chiroptera,Vespertilionidae,Myotis,hasseltii,0.188,7.5,Lesser Large-footed Myotis
+Chiroptera,Rhinolophidae,Rhinolophus,lepidus,0.18833,5.6,Blyth's Horseshoe Bat
+Chiroptera,Vespertilionidae,Eptesicus,furinalis,0.1895,7.6,Argentine brown bat
+Chiroptera,Vespertilionidae,Neoromicia,flavescens,0.19,10.5,Yellow Serotine
+Chiroptera,Rhinolophidae,Rhinolophus,cornutus,0.194,6.6,Little Japanese Horseshoe Bat
+Chiroptera,Vespertilionidae,Myotis,horsfieldii,0.197,6.3,Horsfield's Myotis
+Chiroptera,Hipposideridae,Hipposideros,ater,0.198,5.83,Dusky Leaf-nosed Bat
+Chiroptera,Vespertilionidae,Eptesicus,brasiliensis,0.19833,9.03,Brazilian Brown Bat
+Chiroptera,Vespertilionidae,Myotis,bocagii,0.2,7.3,Rufous Mouse-eared Bat
+Chiroptera,Vespertilionidae,Myotis,velifer,0.2,8.9,Cave Myotis
+Chiroptera,Rhinolophidae,Rhinolophus,malayanus,0.202,6.4,Malayan Horseshoe Bat
+Chiroptera,Vespertilionidae,Kerivoula,pellucida,0.203,4.1,Clear-winged Woolly Bat
+Chiroptera,Vespertilionidae,Glauconycteris,poensis,0.205,8.6,Abo Bat
+Chiroptera,Rhinolophidae,Rhinolophus,macrotis,0.208,6.3,Big-eared Horseshoe Bat
+Chiroptera,Hipposideridae,Hipposideros,cervinus,0.214,7.3,Fawn-colored Leaf-nosed Bat
+Chiroptera,Vespertilionidae,Eptesicus,fuscus,0.21433,11.23,Big Brown Bat
+Chiroptera,Vespertilionidae,Miniopterus,pusillus,0.216,8.6,Small Long-fingered Bat
+Chiroptera,Vespertilionidae,Murina,tubinaris,0.217,5.45,Scully's Tube-nosed Bat
+Chiroptera,Emballonuridae,Cormura,brevirostris,0.219,8.2,Chestnut Sac-winged Bat
+Chiroptera,Molossidae,Mormopterus,jugularis,0.22,11.5,Peters's Wrinkle-lipped Bat
+Chiroptera,Vespertilionidae,Myotis,annectans,0.221,9.8,Hairy-faced Myotis
+Chiroptera,Thyropteridae,Thyroptera,tricolor,0.23,4.5,Spix's Disk-winged Bat
+Chiroptera,Vespertilionidae,Myotis,daubentonii,0.23,7.75,Daubenton's Myotis
+Chiroptera,Vespertilionidae,Eptesicus,dimissus,0.231,15,Surat Serotine
+Chiroptera,Hipposideridae,Hipposideros,pomona,0.233,6.2,Pomona Leaf-nosed Bat
+Chiroptera,Rhinolophidae,Rhinolophus,thomasi,0.233,9,Thomas's Horseshoe Bat
+Chiroptera,Molossidae,Mormopterus,beccarii,0.233,14.2,Beccari's Mastiff Bat
+Chiroptera,Mormoopidae,Pteronotus,personatus,0.234,7.8,Wagner's Mustached Bat
+Chiroptera,Hipposideridae,Hipposideros,fulvus,0.236,7,Fulvus Leaf-nosed Bat
+Chiroptera,Vespertilionidae,Plecotus,auritus,0.238,6.6,Brown Long-eared Bat
+Chiroptera,Nycteridae,Nycteris,nana,0.239,6.95,Dwarf Slit-faced Bat
+Chiroptera,Vespertilionidae,Myotis,altarium,0.24,11,Szechwan Myotis
+Chiroptera,Vespertilionidae,Chalinolobus,gouldii,0.24,11.7,Gould's Wattled Bat
+Chiroptera,Hipposideridae,Asellia,tridens,0.24,12.8,Geoffroy's Trident Leaf-nosed Bat
+Chiroptera,Rhinolophidae,Rhinolophus,clivosus,0.242,20.1,Geoffroy's Horseshoe Bat
+Chiroptera,Natalidae,Natalus,tumidirostris,0.245,6.9,Trinidadian Greater Funnel-eared Bat
+Chiroptera,Hipposideridae,Rhinonicteris,aurantia,0.249,8.65,Orange Diamond-faced Bat
+Chiroptera,Vespertilionidae,Nyctophilus,timoriensis,0.254,10.9,Greater Long-eared Bat
+Chiroptera,Vespertilionidae,Myotis,adversus,0.2545,11.25,Large-footed Myotis
+Chiroptera,Rhinolophidae,Rhinolophus,capensis,0.256,12.8,Cape Horseshoe Bat
+Chiroptera,Vespertilionidae,Murina,huttoni,0.258,8.8,Hutton's Tube-nosed Bat
+Chiroptera,Emballonuridae,Coleura,afra,0.2585,11.5,African Sheath-tailed Bat
+Chiroptera,Rhinolophidae,Rhinolophus,coelophyllus,0.259,7.7,Croslet Horseshoe Bat
+Chiroptera,Vespertilionidae,Myotis,tricolor,0.259,13.6,Cape Hairy Bat
+Chiroptera,Vespertilionidae,Myotis,bechsteinii,0.26,9,Bechstein's Myotis
+Chiroptera,Rhinolophidae,Rhinolophus,megaphyllus,0.2605,9.8,Eastern Horseshoe Bat
+Chiroptera,Hipposideridae,Hipposideros,ruber,0.265,7.3,Noack's Leaf-nosed Bat
+Chiroptera,Vespertilionidae,Murina,cyclotis,0.265,7.88,Round-eared Tube-nosed Bat
+Chiroptera,Vespertilionidae,Miniopterus,fuscus,0.265,11.4,Southeast Asian Long-fingered Bat
+Chiroptera,Rhinolophidae,Rhinolophus,paradoxolophus,0.267,9.3,Bourret's Horseshoe Bat
+Chiroptera,Hipposideridae,Hipposideros,ridleyi,0.269,9.65,Ridley's Leaf-nosed Bat
+Chiroptera,Vespertilionidae,Miniopterus,schreibersii,0.2703,11.78,Schreibers's Long-fingered Bat
+Chiroptera,Hipposideridae,Triaenops,persicus,0.2705,13.7,Persian Trident Bat
+Chiroptera,Vespertilionidae,Miniopterus,medius,0.27122,11.71,Intermediate Long-fingered Bat
+Chiroptera,Phyllostomidae,Micronycteris,megalotis,0.274,6.5,Little Big-eared Bat
+Chiroptera,Molossidae,Chaerephon,pumilus,0.274,12.09,Little Free-tailed Bat
+Chiroptera,Rhinopomatidae,Rhinopoma,hardwickii,0.275,12.9,Lesser Mouse-tailed Bat
+Chiroptera,Rhinolophidae,Rhinolophus,landeri,0.276,9.65,Lander's Horseshoe Bat
+Chiroptera,Rhinolophidae,Rhinolophus,robinsoni,0.2785,8.5,Peninsular Horseshoe Bat
+Chiroptera,Nycteridae,Nycteris,thebaica,0.2785,8.95,Egyptian Slit-faced Bat
+Chiroptera,Hipposideridae,Hipposideros,galeritus,0.279,10.4,Cantor's Leaf-nosed Bat
+Chiroptera,Nycteridae,Nycteris,hispida,0.284,7.8,Hairy Slit-faced Bat
+Chiroptera,Hipposideridae,Hipposideros,speoris,0.284,11.5,Schneider's Leaf-nosed Bat
+Chiroptera,Molossidae,Molossus,molossus,0.28467,13.23,Pallas' free-tailed bat
+Chiroptera,Rhinolophidae,Rhinolophus,stheno,0.285,8.5,Lesser Brown Horseshoe Bat
+Chiroptera,Phyllostomidae,Micronycteris,minuta,0.286,6.9,Tiny Big-eared Bat
+Chiroptera,Phyllostomidae,Ametrida,centurio,0.29,10.5,Little White-shouldered Bat
+Chiroptera,Molossidae,Cynomops,greenhalli,0.3,17.5,Greenhall's Dog-faced Bat
+Chiroptera,Rhinolophidae,Rhinolophus,acuminatus,0.302,12.1,Accuminate Horseshoe Bat
+Chiroptera,Phyllostomidae,Micronycteris,schmidtorum,0.308,7.8,Schmidt's Big-eared Bat
+Chiroptera,Rhinolophidae,Rhinolophus,mehelyi,0.31,9.7,Mehely's Horseshoe Bat
+Chiroptera,Vespertilionidae,Kerivoula,papillosa,0.31,10.1,Papillose Woolly Bat
+Chiroptera,Vespertilionidae,Myotis,dasycneme,0.31,15,Pond Myotis
+Chiroptera,Phyllostomidae,Macrophyllum,macrophyllum,0.321,8.6,Long-legged Bat
+Chiroptera,Vespertilionidae,Miniopterus,magnater,0.324,15,Western Long-fingered Bat
+Chiroptera,Vespertilionidae,Miniopterus,inflatus,0.3265,15.05,Greater Long-fingered Bat
+Chiroptera,Rhinolophidae,Rhinolophus,pearsonii,0.332,13.9,Pearson's Horseshoe Bat
+Chiroptera,Vespertilionidae,Miniopterus,tristis,0.333,15.6,Great Long-fingered Bat
+Chiroptera,Phyllostomidae,Choeroniscus,godmani,0.34,6.1,Godman's Long-tongued Bat
+Chiroptera,Vespertilionidae,Scotophilus,kuhlii,0.34233,19.6,Lesser Asiatic Yellow House Bat
+Chiroptera,Mormoopidae,Pteronotus,gymnonotus,0.343,13.6,Big Naked-backed Bat
+Chiroptera,Phyllostomidae,Lonchophylla,thomasi,0.3435,7.2,Thomas's Nectar Bat
+Chiroptera,Phyllostomidae,Mesophylla,macconnelli,0.3445,7.55,MacConnell's Bat
+Chiroptera,Rhinolophidae,Rhinolophus,affinis,0.3475,13.5,Intermediate Horseshoe Bat
+Chiroptera,Rhinolophidae,Rhinolophus,trifoliatus,0.351,14.8,Trefoil Horseshoe Bat
+Chiroptera,Phyllostomidae,Lionycteris,spurrelli,0.352,7.55,Chestnut Long-tongued Bat
+Chiroptera,Phyllostomidae,Rhinophylla,pumilio,0.356,8.9,Dwarf Little Fruit Bat
+Chiroptera,Molossidae,Chaerephon,jobensis,0.36,16.5,Northern Mastiff Bat
+Chiroptera,Hipposideridae,Hipposideros,calcaratus,0.369,11.35,Spurred Leaf-nosed Bat
+Chiroptera,Phyllostomidae,Lonchorhina,aurita,0.377,18,Common Sword-nosed Bat
+Chiroptera,Vespertilionidae,Scotomanes,ornatus,0.384,21.8,Harlequin Bat
+Chiroptera,Molossidae,Chaerephon,plicatus,0.385,20.5,Wrinkle-lipped Free-tailed Bat
+Chiroptera,Phyllostomidae,Choeroniscus,minor,0.389,9.6,Lesser Long-tongued Bat
+Chiroptera,Nycteridae,Nycteris,macrotis,0.389,14.5,Large-eared Slit-faced Bat
+Chiroptera,Phyllostomidae,Macrotus,californicus,0.39,13,California leaf-nosed bat
+Chiroptera,Molossidae,Mops,leucostigma,0.39,26.79,Malagasy White-bellied Free-tailed Bat
+Chiroptera,Molossidae,Tadarida,aegyptiaca,0.393,17.7,Egyptian Free-tailed Bat
+Chiroptera,Phyllostomidae,Vampyressa,pusilla,0.394,8.55,Southern Little Yellow-eared Bat
+Chiroptera,Rhinopomatidae,Rhinopoma,microphyllum,0.4035,27.1,Greater Mouse-tailed Bat
+Chiroptera,Rhinolophidae,Rhinolophus,eloquens,0.4045,19.05,Eloquent Horseshoe Bat
+Chiroptera,Phyllostomidae,Monophyllus,plethodon,0.4125,14.9,Insular Single-leaf Bat
+Chiroptera,Hipposideridae,Hipposideros,larvatus,0.4165,19.85,Horsfield's Leaf-nosed Bat
+Chiroptera,Molossidae,Cynomops,abrasus,0.418,33.3,Cinnamon Dog-faced Bat
+Chiroptera,Molossidae,Mops,condylurus,0.42225,26.65,Angolan Free-tailed Bat
+Chiroptera,Phyllostomidae,Anoura,caudifer,0.4225,10.5,Tailed Tailless Bat
+Chiroptera,Phyllostomidae,Lonchophylla,mordax,0.432,10.7,Goldman's Nectar Bat
+Chiroptera,Molossidae,Mops,niveiventer,0.432,21.7,White-bellied Free-tailed Bat
+Chiroptera,Phyllostomidae,Glossophaga,longirostris,0.435,11.2,Miller's Long-tongued Bat
+Chiroptera,Vespertilionidae,Scotophilus,dinganii,0.4385,24.3,African yellow bat
+Chiroptera,Rhinolophidae,Rhinolophus,yunanensis,0.439,23.5,Dobson's Horseshoe Bat
+Chiroptera,Vespertilionidae,Harpiocephalus,harpia,0.442,13.5,Lesser Hairy-winged Bat
+Chiroptera,Phyllostomidae,Artibeus,phaeotis,0.448,11.8,Pygmy Fruit-eating Bat
+Chiroptera,Phyllostomidae,Carollia,castanea,0.4485,12.55,Chestnut Short-tailed Bat
+Chiroptera,Phyllostomidae,Artibeus,cinereus,0.4685,12.4,Gervais's Fruit-eating Bat
+Chiroptera,Emballonuridae,Taphozous,longimanus,0.47,23.2,Long-winged Tomb Bat
+Chiroptera,Molossidae,Mops,mops,0.4725,30.95,Malayan Free-tailed Bat
+Chiroptera,Nycteridae,Nycteris,javanica,0.475,17.7,Javan Slit-faced Bat
+Chiroptera,Phyllostomidae,Artibeus,glaucus,0.476,12.2,Silvery Fruit-eating Bat
+Chiroptera,Nycteridae,Nycteris,tragata,0.476,14.4,Malayan Slit-faced Bat
+Chiroptera,Vespertilionidae,Scotophilus,heathii,0.476,31.5,Greater Asiatic Yellow House Bat
+Chiroptera,Emballonuridae,Taphozous,australis,0.5035,22.9,Coastal Tomb Bat
+Chiroptera,Pteropodidae,Balionycteris,maculata,0.51067,14.33,Spotted-winged Fruit Bat
+Chiroptera,Mormoopidae,Pteronotus,parnellii,0.5315,19.1,Common Mustached Bat
+Chiroptera,Emballonuridae,Taphozous,melanopogon,0.536,22.7,Black-bearded Tomb Bat
+Chiroptera,Phyllostomidae,Chiroderma,trinitatum,0.537,13.7,Little Big-eyed Bat
+Chiroptera,Phyllostomidae,Sphaeronycteris,toxophyllum,0.537,17.55,Visored Bat
+Chiroptera,Hipposideridae,Hipposideros,maggietaylorae,0.5425,20.5,Maggie Taylor's Leaf-nosed Bat
+Chiroptera,Emballonuridae,Taphozous,hildegardeae,0.5425,27.45,Hildegarde's Tomb Bat
+Chiroptera,Phyllostomidae,Artibeus,toltecus,0.544,16.45,Toltec Fruit-eating Bat
+Chiroptera,Emballonuridae,Taphozous,mauritianus,0.5505,29,Mauritian Tomb Bat
+Chiroptera,Noctilionidae,Noctilio,albiventris,0.5735,35.6,Lesser Bulldog Bat
+Chiroptera,Phyllostomidae,Platyrrhinus,brachycephalus,0.583,12.9,Short-headed Broad-nosed Bat
+Chiroptera,Phyllostomidae,Anoura,geoffroyi,0.583,15,Geoffroy's Tailless Bat
+Chiroptera,Hipposideridae,Hipposideros,lekaguli,0.584,30.3,Large Asian Leaf-nosed Bat
+Chiroptera,Phyllostomidae,Leptonycteris,nivalis,0.5855,22.9,Mexican Long-nosed Bat
+Chiroptera,Rhinolophidae,Rhinolophus,luctus,0.5905,33.9,Great Woolly Horseshoe Bat
+Chiroptera,Pteropodidae,Syconycteris,australis,0.592,15.84,Southern Blossom Bat
+Chiroptera,Hipposideridae,Hipposideros,turpis,0.599,34.8,Lesser Leaf-nosed Bat
+Chiroptera,Pteropodidae,Macroglossus,minimus,0.607,17.03,Dagger-toothed Long-nosed Fruit Bat
+Chiroptera,Phyllostomidae,Ardops,nichollsi,0.61,15,Tree Bat
+Chiroptera,Pteropodidae,Chironax,melanocephalus,0.612,17.63,Black-capped Fruit Bat
+Chiroptera,Molossidae,Eumops,auripendulus,0.612,33.8,Black Bonneted Bat
+Chiroptera,Rhinolophidae,Rhinolophus,hildebrandtii,0.63,29.1,Hildebrandt's Horseshoe Bat
+Chiroptera,Phyllostomidae,Artibeus,concolor,0.633,19.4,Brown Fruit-eating Bat
+Chiroptera,Megadermatidae,Lavia,frons,0.644,23.5,Yellow-winged Bat
+Chiroptera,Molossidae,Eumops,glaucinus,0.6565,36.85,Wagner's Bonneted Bat
+Chiroptera,Megadermatidae,Megaderma,spasma,0.667,23.8,Lesser False Vampire Bat
+Chiroptera,Emballonuridae,Saccolaimus,saccolaimus,0.6705,43,Naked-rumped Pouched Bat
+Chiroptera,Megadermatidae,Cardioderma,cor,0.6725,25.5,Heart-nosed Bat
+Chiroptera,Phyllostomidae,Sturnira,ludovici,0.676,25.9,Highland Yellow-shouldered Bat
+Chiroptera,Pteropodidae,Megaloglossus,woermanni,0.6795,18,Woermann's Bat
+Chiroptera,Emballonuridae,Taphozous,theobaldi,0.681,39.8,Theobald's Tomb Bat
+Chiroptera,Pteropodidae,Macroglossus,sobrinus,0.692,21.7,Greater Long-nosed Fruit Bat
+Chiroptera,Phyllostomidae,Chiroderma,villosum,0.706,24.8,Hairy Big-eyed Bat
+Chiroptera,Pteropodidae,Scotonycteris,zenkeri,0.71,21.35,Zenker's Fruit Bat
+Chiroptera,Hipposideridae,Hipposideros,diadema,0.715,43.6,Diadem Leaf-nosed Bat
+Chiroptera,Phyllostomidae,Sturnira,tildae,0.7255,24,Tilda yellow-shouldered bat
+Chiroptera,Pteropodidae,Paranyctimene,raptor,0.731,26.1,Unstriped Tube-nosed Fruit Bat
+Chiroptera,Hipposideridae,Hipposideros,lankadiva,0.733,48.5,Indian Leaf-nosed Bat
+Chiroptera,Nycteridae,Nycteris,grandis,0.7355,29.4,Large Slit-faced Bat
+Chiroptera,Phyllostomidae,Platyrrhinus,lineatus,0.741,22.6,White-lined Broad-nosed Bat
+Chiroptera,Hipposideridae,Hipposideros,commersoni,0.74475,101.25,Commerson's Leaf-nosed Bat
+Chiroptera,Molossidae,Otomops,martiensseni,0.7555,41.75,Large-eared Free-tailed Bat
+Chiroptera,Phyllostomidae,Chiroderma,salvini,0.787,24.3,Salvin's Big-eyed Bat
+Chiroptera,Phyllostomidae,Tonatia,bidens,0.788,29.4,Greater Round-eared Bat
+Chiroptera,Hipposideridae,Hipposideros,armiger,0.8,56,Great Himalayan Leaf-nosed Bat
+Chiroptera,Phyllostomidae,Diphylla,ecaudata,0.8015,31.05,Hairy-legged Vampire Bat
+Chiroptera,Molossidae,Eumops,perotis,0.802,47.5,Greater Bonneted Bat
+Chiroptera,Pteropodidae,Micropteropus,pusillus,0.82,25.2,Peters's Dwarf Epauletted Fruit Bat
+Chiroptera,Pteropodidae,Megaerops,ecaudatus,0.82233,24.67,Temminck s Tailless Fruit Bat
+Chiroptera,Pteropodidae,Nyctimene,albiventer,0.825,29.7,Common Tube-nosed Fruit Bat
+Chiroptera,Pteropodidae,Sphaerias,blanfordi,0.832,29.5,Blanford's Fruit Bat
+Chiroptera,Phyllostomidae,Phyllostomus,elongatus,0.885,44.9,Lesser Spear-nosed Bat
+Chiroptera,Megadermatidae,Megaderma,lyra,0.8935,35.3,Greater False Vampire Bat
+Chiroptera,Phyllostomidae,Trachops,cirrhosus,0.9115,36.45,Fringe-lipped Bat
+Chiroptera,Phyllostomidae,Vampyrodes,caraccioli,0.947,39.7,Caracciolo's Stripe-faced Bat
+Chiroptera,Pteropodidae,Penthetor,lucasi,0.9475,35,Lucas's Short-nosed Fruit Bat
+Chiroptera,Pteropodidae,Megaerops,niphanae,0.958,32.6,Ratanaworabhan's Fruit Bat
+Chiroptera,Pteropodidae,Nyctimene,vizcaccia,0.988,35.4,Umboi Tube-nosed Fruit Bat
+Chiroptera,Pteropodidae,Melonycteris,woodfordi,1.0185,35.5,Woodford's Fruit Bat
+Chiroptera,Vespertilionidae,Scotophilus,nigrita,1.046,101,Giant House Bat
+Chiroptera,Pteropodidae,Cynopterus,sphinx,1.061,42.4,Greater Short-nosed Fruit Bat
+Chiroptera,Phyllostomidae,Platyrrhinus,infuscus,1.11,50.3,Buffy Broad-nosed Bat
+Chiroptera,Pteropodidae,Myonycteris,torquata,1.11585,36.4,Little Collared Fruit Bat
+Chiroptera,Phyllostomidae,Platyrrhinus,vittatus,1.175,36.6,Greater Broad-nosed Bat
+Chiroptera,Pteropodidae,Nyctimene,robinsoni,1.23067,47.03,Queensland Tube-nosed Fruit Bat
+Chiroptera,Pteropodidae,Eonycteris,spelaea,1.26,54.86,Lesser Dawn Bat
+Chiroptera,Phyllostomidae,Brachyphylla,cavernarum,1.278,46.75,Antillean Fruit-eating Bat
+Chiroptera,Pteropodidae,Melonycteris,melanops,1.288,47.45,Black-bellied Fruit Bat
+Chiroptera,Phyllostomidae,Phylloderma,stenops,1.338,46.1,Pale-faced Bat
+Chiroptera,Molossidae,Cheiromeles,torquatus,1.366,168.5,Greater Naked Bat
+Chiroptera,Pteropodidae,Notopteris,macdonaldi,1.45275,70.18,Fijian Long-tailed Fruit Bat
+Chiroptera,Phyllostomidae,Phyllostomus,hastatus,1.53175,90,Greater Spear-nosed Bat
+Chiroptera,Pteropodidae,Epomophorus,labiatus,1.58867,64.1,Ethiopian Epauletted Fruit Bat
+Chiroptera,Pteropodidae,Rousettus,amplexicaudatus,1.62725,80.38,Geoffroy's Rousette
+Chiroptera,Megadermatidae,Macroderma,gigas,1.7,120,Australian False Vampire Bat
+Chiroptera,Phyllostomidae,Chrotopterus,auritus,1.74,87,Woolly False Vampire Bat
+Chiroptera,Pteropodidae,Lissonycteris,angolensis,1.762,84.15,Angolan Soft-furred Fruit Bat
+Chiroptera,Pteropodidae,Epomophorus,wahlbergi,1.96133,81.51,Wahlberg s Epauletted Fruit Bat
+Chiroptera,Pteropodidae,Epomops,franqueti,2.213,118.25,Franquet s Epauletted Fruit Bat
+Chiroptera,Pteropodidae,Dobsonia,inermis,2.7,149.5,Solomons Naked-backed Fruit Bat
+Chiroptera,Phyllostomidae,Vampyrum,spectrum,2.8685,181,Spectral Bat
+Chiroptera,Pteropodidae,Dobsonia,praedatrix,2.97488,190.52,New Britain Naked-backed Fruit Bat
+Chiroptera,Pteropodidae,Dobsonia,moluccensis,4.43,325,Moluccan Naked-backed Fruit Bat
+Chiroptera,Pteropodidae,Eidolon,helvum,4.4325,266.75,African Straw-colored Fruit Bat
+Chiroptera,Pteropodidae,Pteropus,temminckii,4.89,250,Temminck's Flying Fox
+Chiroptera,Pteropodidae,Pteropus,mahaganus,5.28,465,Sanborn's Flying Fox
+Chiroptera,Pteropodidae,Pteropus,hypomelanus,5.302,390,Variable Flying Fox
+Chiroptera,Pteropodidae,Pteropus,scapulatus,5.36,375,Little Red Flying Fox
+Chiroptera,Pteropodidae,Pteropus,samoensis,5.792,310,Samoa flying fox
+Chiroptera,Pteropodidae,Pteropus,tonganus,6.075,428.75,Pacific Flying Fox
+Chiroptera,Pteropodidae,Pteropus,lylei,6.12967,316.67,Lyle's Flying Fox
+Chiroptera,Pteropodidae,Pteropus,macrotis,6.12967,366,Big-eared Flying Fox
+Chiroptera,Pteropodidae,Pteropus,alecto,7.03967,595,Black Flying Fox
+Chiroptera,Pteropodidae,Pteropus,poliocephalus,7.2298,695,Gray-headed Flying Fox
+Chiroptera,Pteropodidae,Pteropus,rufus,7.25,338.83,Madagascan flying fox
+Chiroptera,Pteropodidae,Pteropus,giganteus,7.78,577,Indian Flying Fox
+Chiroptera,Pteropodidae,Pteropus,conspicillatus,8.35,750,Spectacled Flying Fox
+Chiroptera,Pteropodidae,Pteropus,neohibernicus,9.114,840,Great Flying Fox
+Cingulata,Dasypodidae,Dasypus,novemcinctus,8.5,2743.5,Nine-banded Armadillo
+Cingulata,Dasypodidae,Cabassous,unicinctus,23.68,3930,Southern Naked-tailed Armadillo
+Cingulata,Dasypodidae,Zaedyus,pichiy,7.98,1740,Pichi
+Cingulata,Dasypodidae,Tolypeutes,matacus,8.86,1200,Southern Three-banded Armadillo
+Cingulata,Dasypodidae,Chaetophractus,villosus,16.4,2948,Big Hairy Armadillo
+Cingulata,Dasypodidae,Euphractus,sexcinctus,33.5,7990,Six-banded Armadillo
+Cingulata,Dasypodidae,Priodontes,maximus,81,60000,Giant Armadillo
+Dasyuromorphia,Dasyuridae,Planigale,tenuirostris,0.14,6.05,Narrow-nosed Planigale
+Dasyuromorphia,Dasyuridae,Planigale,ingrami,0.15,4.25,Long-tailed Planigale
+Dasyuromorphia,Dasyuridae,Planigale,gilesi,0.17,9.2,Paucident Planigale
+Dasyuromorphia,Dasyuridae,Planigale,maculata,0.2,11,Pygmy Planigale
+Dasyuromorphia,Dasyuridae,Ningaui,ridei,0.24,9,Wongai Ningaui
+Dasyuromorphia,Dasyuridae,Ningaui,yvonnae,0.26,8,Southern Ningaui
+Dasyuromorphia,Dasyuridae,Planigale,novaeguineae,0.27,14.9,New Guinean Planigale
+Dasyuromorphia,Dasyuridae,Sminthopsis,virginiae,0.34,46,Red-cheeked Dunnart
+Dasyuromorphia,Dasyuridae,Sminthopsis,bindi,0.35,13,Kakadu Dunnart
+Dasyuromorphia,Dasyuridae,Sminthopsis,douglasi,0.35,55,Julia Creek Dunnart
+Dasyuromorphia,Dasyuridae,Sminthopsis,crassicaudata,0.36,15,Fat-tailed Dunnart
+Dasyuromorphia,Dasyuridae,Sminthopsis,macroura,0.4,20,Stripe-faced Dunnart
+Dasyuromorphia,Dasyuridae,Sminthopsis,hirtipes,0.41,19,Hairy-footed Dunnart
+Dasyuromorphia,Dasyuridae,Sminthopsis,leucopus,0.41,22.5,White-footed Dunnart
+Dasyuromorphia,Dasyuridae,Pseudantechinus,roryi,0.42,23.5,Rory Cooper s False Antechinus
+Dasyuromorphia,Dasyuridae,Sminthopsis,murina,0.44,17,Slender-tailed Dunnart
+Dasyuromorphia,Dasyuridae,Antechinomys,laniger,0.47,25,Eastern Jerboa marsupial
+Dasyuromorphia,Dasyuridae,Sminthopsis,griseoventer,0.49,17.5,Gray-bellied Dunnart
+Dasyuromorphia,Dasyuridae,Pseudantechinus,macdonnellensis,0.49,32.5,Fat-tailed False Antechinus
+Dasyuromorphia,Dasyuridae,Dasykaluta,rosamondae,0.54,35,Little Red Kaluta
+Dasyuromorphia,Dasyuridae,Antechinus,agilis,0.56,24,Agile Antechinus
+Dasyuromorphia,Dasyuridae,Antechinus,bellus,0.63,45,Fawn Antechinus
+Dasyuromorphia,Dasyuridae,Antechinus,flavipes,0.64,45,Yellow-footed Antechinus
+Dasyuromorphia,Dasyuridae,Pseudantechinus,bilarni,0.65,27.5,Sandstone Dibbler
+Dasyuromorphia,Dasyuridae,Murexechinus,melanurus,0.65,31,Black-tailed Dasyure
+Dasyuromorphia,Dasyuridae,Antechinus,subtropicus,0.72,28.5,Subtropical Antechinus
+Dasyuromorphia,Dasyuridae,Antechinus,minimus,0.74,53.5,Swamp Antechinus
+Dasyuromorphia,Dasyuridae,Antechinus,leo,0.75,74,Cinnamon Antechinus
+Dasyuromorphia,Dasyuridae,Antechinus,stuartii,0.76,27.5,Brown Antechinus
+Dasyuromorphia,Dasyuridae,Phascomurexia,naso,0.77,48.5,Long-nosed Dasyure
+Dasyuromorphia,Dasyuridae,Phascogale,calura,0.91,51.5,Red-tailed Phascogale
+Dasyuromorphia,Dasyuridae,Antechinus,swainsonii,1.09,53,Dusky Antechinus
+Dasyuromorphia,Dasyuridae,Paramurexia,rothschildi,1.09,62,Broad-striped Dasyure
+Dasyuromorphia,Dasyuridae,Phascolosorex,dorsalis,1.11,47.5,Narrow-striped Marsupial Shrew
+Dasyuromorphia,Dasyuridae,Parantechinus,apicalis,1.2,69,Dibbler
+Dasyuromorphia,Dasyuridae,Dasycercus,cristicauda,1.24,90,Mulgara
+Dasyuromorphia,Dasyuridae,Dasyuroides,byrnei,1.5,110,Kowari
+Dasyuromorphia,Dasyuridae,Murexia,longicaudata,1.68,78,Short-furred Dasyure
+Dasyuromorphia,Dasyuridae,Phascogale,tapoatafa,1.81,193.5,Brush-tailed Phascogale
+Dasyuromorphia,Dasyuridae,Myoictis,melas,2.05,91,Three-striped Dasyure
+Dasyuromorphia,Dasyuridae,Neophascogale,lorentzi,2.45,212,Speckled Dasyure
+Dasyuromorphia,Dasyuridae,Dasyurus,hallucatus,3.38,525,Northern Quoll
+Dasyuromorphia,Dasyuridae,Dasyurus,albopunctatus,3.79,627,New Guinean Quoll
+Dasyuromorphia,Myrmecobiidae,Myrmecobius,fasciatus,4.25,471.5,Numbat
+Dasyuromorphia,Dasyuridae,Dasyurus,geoffroii,5.17,1100,Western Quoll
+Dasyuromorphia,Dasyuridae,Dasyurus,viverrinus,5.33,1090,Eastern Quoll
+Dasyuromorphia,Dasyuridae,Dasyurus,maculatus,9.41,5500,Tiger Quoll
+Dasyuromorphia,Dasyuridae,Sarcophilus,harrisii,16.09,8000,Tasmanian Devil
+Dasyuromorphia,Thylacinidae,Thylacinus,cynocephalus,51.19,29500,Tasmanian tiger
+Dasyuromorphia,Dasyuridae,Dasyurus,spartacus,5.3,487,Bronze Quoll
+Didelphimorphia,Didelphidae,Marmosa,robinsoni,0.7,60,Robinson s Mouse Opossum
+Didelphimorphia,Didelphidae,Thylamys,elegans,0.71,25,Elegant Fat-tailed Mouse Opossum
+Didelphimorphia,Didelphidae,Monodelphis,brevicaudata,0.9,70,Northern Red-sided Opossum
+Didelphimorphia,Didelphidae,Marmosa,mexicana,1,49.5,Mexican Mouse Opossum
+Didelphimorphia,Didelphidae,Marmosa,murina,1.1,45,Linnaeus s Mouse Opossum
+Didelphimorphia,Didelphidae,Marmosa,rubra,1.2,61,Red Mouse Opossum
+Didelphimorphia,Didelphidae,Caluromys,derbianus,3.4,318,Derby s Woolly Opossum
+Didelphimorphia,Didelphidae,Caluromys,philander,3.5,188.5,Bare-tailed Woolly Opossum
+Didelphimorphia,Didelphidae,Metachirus,nudicaudatus,3.5,300,Brown Four-eyed Opossum
+Didelphimorphia,Didelphidae,Philander,opossum,3.83,450,Gray Four-eyed Opossum
+Didelphimorphia,Didelphidae,Didelphis,marsupialis,6.35,1620,Common Opossum
+Didelphimorphia,Didelphidae,Didelphis,virginiana,6.72,1900,Virginia Opossum
+Didelphimorphia,Didelphidae,Thylamys,pallidior,0.72,20.7,White-bellied Fat-tailed Mouse Opossum
+Didelphimorphia,Didelphidae,Caluromys,lanatus,3.1,384,Brown-eared Woolly Opossum
+Didelphimorphia,Didelphidae,Lutreolina,crassicaudata,3.41,504,Lutrine Opossum
+Didelphimorphia,Didelphidae,Chironectes,minimus,5.54,764,Water Opossum
+Diprotodontia,Burramyidae,Cercartetus,concinnus,0.3,13,Southwestern Pygmy Possum
+Diprotodontia,Acrobatidae,Acrobates,pygmaeus,0.35,12,Feather-tailed Glider
+Diprotodontia,Burramyidae,Cercartetus,lepidus,0.36,7,Tasmanian Pygmy Possum
+Diprotodontia,Tarsipedidae,Tarsipes,rostratus,0.36,9,Honey possum
+Diprotodontia,Burramyidae,Cercartetus,nanus,0.43,24,Eastern Pygmy Possum
+Diprotodontia,Burramyidae,Cercartetus,caudatus,0.71,30,Long-tailed Pygmy Possum
+Diprotodontia,Acrobatidae,Distoechurus,pennatus,0.94,50,Feather-tailed Possum
+Diprotodontia,Burramyidae,Burramys,parvus,1,41.5,Mountain Pygmy Possum
+Diprotodontia,Pseudocheiridae,Pseudochirulus,canescens,1.8,300,Lowland Ringtail
+Diprotodontia,Pseudocheiridae,Pseudochirulus,mayeri,2.01,151.75,Pygmy Ringtail
+Diprotodontia,Petauridae,Petaurus,breviceps,2.09,127.5,Sugar Glider
+Diprotodontia,Pseudocheiridae,Pseudochirulus,schlegeli,2.8,274,Vogelkop Ringtail
+Diprotodontia,Petauridae,Gymnobelideus,leadbeateri,2.85,133,Leadbeater's Possum
+Diprotodontia,Petauridae,Petaurus,norfolcensis,3.02,230,Squirrel Glider
+Diprotodontia,Pseudocheiridae,Hemibelideus,lemuroides,3.15,952.5,Lemur-like Ringtail
+Diprotodontia,Pseudocheiridae,Pseudochirulus,caroli,3.2,440,Weyland Ringtail
+Diprotodontia,Pseudocheiridae,Pseudochirulus,forbesi,3.36,650,Painted Ringtail
+Diprotodontia,Pseudocheiridae,Pseudochirulus,herbertensis,4.32,1115,Herbert River Ringtail
+Diprotodontia,Petauridae,Dactylopsila,tatei,4.45,252,Tate s Triok
+Diprotodontia,Pseudocheiridae,Pseudocheirus,peregrinus,4.52,900,Common Ringtail
+Diprotodontia,Pseudocheiridae,Pseudochirops,albertisii,4.68,784.5,D Albertis  Ringtail
+Diprotodontia,Pseudocheiridae,Petauroides,volans,4.69,1700,Greater Glider
+Diprotodontia,Pseudocheiridae,Petropseudes,dahli,5.038,2000,Rock-haunting Ringtail
+Diprotodontia,Pseudocheiridae,Pseudochirops,coronatus,5.13,1500,Reclusive Ringtail
+Diprotodontia,Pseudocheiridae,Pseudochirops,corinnae,5.36,1123,Plush-coated Ringtail
+Diprotodontia,Petauridae,Petaurus,australis,5.71,555,Yellow-bellied Glider
+Diprotodontia,Petauridae,Dactylopsila,trivirgata,5.83,423,Striped Possum
+Diprotodontia,Pseudocheiridae,Pseudochirops,archeri,5.87,1095,Green Ringtail
+Diprotodontia,Phalangeridae,Phalanger,lullulae,6.09,1632.5,Woodlark Cuscus
+Diprotodontia,Potoroidae,Potorous,platyops,6.3,600,Broad-faced Potoroo
+Diprotodontia,Petauridae,Dactylopsila,palpator,6.91,435,Long-fingered Triok
+Diprotodontia,Macropodidae,Lagostrophus,fasciatus,7,1750,Banded Hare-wallaby
+Diprotodontia,Phalangeridae,Phalanger,ornatus,7.02,1800,Ornate Cuscus
+Diprotodontia,Phalangeridae,Phalanger,orientalis,7.37,2500,Northern Common Cuscus
+Diprotodontia,Pseudocheiridae,Pseudochirops,cupreus,7.54,1700,Coppery Ringtail
+Diprotodontia,Macropodidae,Lagorchestes,hirsutus,7.77,1265,Rufous Hare-wallaby
+Diprotodontia,Phalangeridae,Phalanger,mimicus,8.13,2000,Southern Common Cuscus
+Diprotodontia,Phalangeridae,Phalanger,carmelitae,8.49,1000,Mountain Cuscus
+Diprotodontia,Potoroidae,Bettongia,tropica,8.92,1200,Northern Bettong
+Diprotodontia,Potoroidae,Potorous,tridactylus,9.53,1100,Long-nosed Potoroo
+Diprotodontia,Phalangeridae,Phalanger,vestitus,9.54,1850,Stein s Cuscus
+Diprotodontia,Potoroidae,Bettongia,penicillata,9.56,1300,Woylie
+Diprotodontia,Phalangeridae,Phalanger,sericeus,9.96,2003,Silky Cuscus
+Diprotodontia,Phalangeridae,Wyulda,squamicaudata,10.1,1675,Scaly-tailed Possum
+Diprotodontia,Macropodidae,Onychogalea,lunata,10.2,3500,Crescent Nail-tail Wallaby
+Diprotodontia,Potoroidae,Bettongia,lesueur,10.5,1300,Boodie
+Diprotodontia,Macropodidae,Petrogale,concinna,11,1350,Nabarlek
+Diprotodontia,Phalangeridae,Trichosurus,vulpecula,11,2600,Common Brushtail
+Diprotodontia,Potoroidae,Bettongia,gaimardi,11.7,1660,Eastern Bettong
+Diprotodontia,Macropodidae,Dorcopsulus,vanheurni,11.8,1696.5,Small Dorcopsis
+Diprotodontia,Phalangeridae,Trichosurus,caninus,11.9,2900,Short-eared Possum
+Diprotodontia,Potoroidae,Aepyprymnus,rufescens,12.3,2600,Rufous Rat-kangaroo
+Diprotodontia,Macropodidae,Lagorchestes,leporides,12.6,3000,Eastern Hare-wallaby
+Diprotodontia,Phalangeridae,Phalanger,gymnotis,13,2700,Ground Cuscus
+Diprotodontia,Phalangeridae,Spilocuscus,maculatus,13.4,3815,Common Spotted Cuscus
+Diprotodontia,Macropodidae,Dorcopsulus,macleayi,13.5,2988,Macleay s Dorcopsis
+Diprotodontia,Macropodidae,Setonix,brachyurus,13.9,3250,Quokka
+Diprotodontia,Macropodidae,Lagorchestes,conspicillatus,14,3000,Spectacled Hare-wallaby
+Diprotodontia,Macropodidae,Onychogalea,fraenata,14.7,4550,Bridled Nail-tail Wallaby
+Diprotodontia,Macropodidae,Petrogale,brachyotis,15.75,4050,Short-eared Rock-wallaby
+Diprotodontia,Macropodidae,Dorcopsis,atrata,16.7,2050,Black Dorcopsis
+Diprotodontia,Macropodidae,Onychogalea,unguifera,16.7,6650,Northern Nail-tail Wallaby
+Diprotodontia,Phalangeridae,Spilocuscus,rufoniger,16.8,6000,Black-spotted Cuscus
+Diprotodontia,Macropodidae,Petrogale,mareeba,17,4150,Mareeba Rock-wallaby
+Diprotodontia,Macropodidae,Petrogale,inornata,17,4600,Unadorned Rock-wallaby
+Diprotodontia,Macropodidae,Thylogale,brunii,17.5,3620,Dusky Pademelon
+Diprotodontia,Macropodidae,Petrogale,assimilis,17.5,4500,Allied Rock-wallaby
+Diprotodontia,Macropodidae,Thylogale,stigmatica,17.8,4600,Red-legged Pademelon
+Diprotodontia,Macropodidae,Petrogale,godmani,18,4750,Godman s Rock-wallaby
+Diprotodontia,Macropodidae,Thylogale,browni,18.3,5478,Brown s Pademelon
+Diprotodontia,Macropodidae,Dendrolagus,bennettianus,18.5,10950,Bennett s Tree-kangaroo
+Diprotodontia,Macropodidae,Macropus,parma,18.7,4275,Parma Wallaby
+Diprotodontia,Macropodidae,Petrogale,lateralis,19.2,4600,Black-flanked Rock-wallaby
+Diprotodontia,Macropodidae,Thylogale,thetis,19.2,5400,Red-necked Pademelon
+Diprotodontia,Phascolarctidae,Phascolarctos,cinereus,20.2,5800,Koala
+Diprotodontia,Macropodidae,Dorcopsis,muelleri,20.4,3150,Brown Dorcopsis
+Diprotodontia,Macropodidae,Dorcopsis,luctuosa,20.6,6350,Gray Dorcopsis
+Diprotodontia,Macropodidae,Petrogale,herberti,21.2,5150,Herbert s Rock-wallaby
+Diprotodontia,Macropodidae,Petrogale,persephone,21.5,6200,Proserpine Rock-wallaby
+Diprotodontia,Macropodidae,Thylogale,billardierii,22.1,5450,Tasmanian Pademelon
+Diprotodontia,Macropodidae,Dorcopsis,hageni,22.5,5500,White-striped Dorcopsis
+Diprotodontia,Macropodidae,Petrogale,xanthopus,23,7500,Yellow-footed Rock-wallaby
+Diprotodontia,Macropodidae,Macropus,eugenii,23.7,6500,Tammar Wallaby
+Diprotodontia,Macropodidae,Petrogale,penicillata,23.9,7100,Brush-tailed Rock-wallaby
+Diprotodontia,Macropodidae,Macropus,irma,24.7,8000,Western Brush Wallaby
+Diprotodontia,Macropodidae,Macropus,greyi,25,19000,Toolache Wallaby
+Diprotodontia,Macropodidae,Dendrolagus,lumholtzi,26.2,7195,Lumholtz s Tree-kangaroo
+Diprotodontia,Macropodidae,Dendrolagus,ursinus,26.3,8200,Ursine Tree-kangaroo
+Diprotodontia,Macropodidae,Dendrolagus,matschiei,27.5,8800,Huon Tree-kangaroo
+Diprotodontia,Macropodidae,Dendrolagus,goodfellowi,28.4,7500,Goodfellow s Tree-kangaroo
+Diprotodontia,Macropodidae,Dendrolagus,spadix,28.5,9100,Lowlands Tree-kangaroo
+Diprotodontia,Macropodidae,Dendrolagus,scottae,29.2,10500,Tenkile
+Diprotodontia,Macropodidae,Macropus,dorsalis,29.2,11250,Black-striped Wallaby
+Diprotodontia,Macropodidae,Dendrolagus,inustus,30.1,13450,Grizzled Tree-kangaroo
+Diprotodontia,Macropodidae,Dendrolagus,dorianus,32.3,9550,Doria s Tree-kangaroo
+Diprotodontia,Macropodidae,Wallabia,bicolor,32.9,15000,Swamp Wallaby
+Diprotodontia,Macropodidae,Macropus,agilis,33.3,15000,Agile Wallaby
+Diprotodontia,Macropodidae,Macropus,rufogriseus,36,16200,Red-necked Wallaby
+Diprotodontia,Macropodidae,Macropus,parryi,41.3,13500,Pretty-faced Wallaby
+Diprotodontia,Vombatidae,Lasiorhinus,latifrons,55.5,26000,Southern Hairy-nosed Wombat
+Diprotodontia,Macropodidae,Macropus,antilopinus,56.8,27250,Antilopine Kangaroo
+Diprotodontia,Macropodidae,Macropus,fuliginosus,58,28850,Western Grey Kangaroo
+Diprotodontia,Macropodidae,Macropus,robustus,59,21200,Wallaroo
+Diprotodontia,Vombatidae,Vombatus,ursinus,59,26000,Common Wombat
+Diprotodontia,Macropodidae,Macropus,rufus,62.4,46250,Blue Flier (females)
+Diprotodontia,Macropodidae,Macropus,giganteus,69.8,26400,Eastern Grey Kangaroo
+Diprotodontia,Petauridae,Petaurus,biacensis,1.68,84.5,Biak Glider
+Diprotodontia,Petauridae,Petaurus,abidi,3.83,284,Northern Glider
+Diprotodontia,Phalangeridae,Phalanger,rothschildi,6.14,1244,Rothschild s Cuscus
+Diprotodontia,Phalangeridae,Strigocuscus,pelengensis,6.22,991,Banggai Cuscus
+Diprotodontia,Phalangeridae,Phalanger,intercastellanus,7.35,1434,Eastern Common Cuscus
+Diprotodontia,Phalangeridae,Spilocuscus,kraemeri,11.5,1547,Admiralty Island Cuscus
+Erinaceomorpha,Erinaceidae,Atelerix,albiventris,2.24,280,Four-toed Hedgehog
+Erinaceomorpha,Erinaceidae,Hemiechinus,auritus,1.9,250,Long-eared Hedgehog
+Erinaceomorpha,Erinaceidae,Paraechinus,hypomelas,2.4,550,Brandt s Hedgehog
+Erinaceomorpha,Erinaceidae,Mesechinus,dauuricus,2.9,342,Daurian Hedgehog
+Erinaceomorpha,Erinaceidae,Atelerix,algirus,3.2,790,Algerian hedgehog
+Erinaceomorpha,Erinaceidae,Echinosorex,gymnura,5.5,957,Moonrat
+Hyracoidea,Procaviidae,Procavia,capensis,19.47,2321.67,Cape hyrax
+Hyracoidea,Procaviidae,Heterohyrax,brucei,12.27,2625,Yellow-spotted Rock Hyrax
+Hyracoidea,Procaviidae,Dendrohyrax,arboreus,12.3,2950,Southern Tree Hyrax
+Lagomorpha,Ochotonidae,Ochotona,hyperborea,2.22,120,Northern Pika
+Lagomorpha,Ochotonidae,Ochotona,princeps,2.39,169,American Pika
+Lagomorpha,Ochotonidae,Ochotona,rufescens,2.75,250,Afghan Pika
+Lagomorpha,Leporidae,Sylvilagus,audubonii,6.07,792.5,Audubon's Cottontail
+Lagomorpha,Leporidae,Sylvilagus,bachmani,6.58,712.4,Brush Rabbit
+Lagomorpha,Leporidae,Sylvilagus,floridanus,7.56,1036,Eastern Cottontail
+Lagomorpha,Leporidae,Lepus,americanus,9.72,1500,Snowshoe Hare
+Lagomorpha,Leporidae,Lepus,capensis,10.78,2412.5,Arabian Hare
+Lagomorpha,Leporidae,Oryctolagus,cuniculus,11.09,2157.6,European Rabbit
+Lagomorpha,Leporidae,Lepus,nigricollis,11.49,1961,Black-napped Hare
+Lagomorpha,Leporidae,Lepus,californicus,13.23,2314.9,Black-tailed Jack Rabbit
+Lagomorpha,Leporidae,Lepus,europaeus,14.35,1954,Brown Hare
+Lagomorpha,Leporidae,Lepus,arcticus,15.8,4231,Arctic Hare
+Lagomorpha,Leporidae,Sylvilagus,brasiliensis,4.5,439,Forest Rabbit
+Lagomorpha,Leporidae,Lepus,timidus,15.1,3274.5,Mountain Hare
+Macroscelidea,Macroscelididae,Rhynchocyon,petersi,5.4,370,Black and Rufous Elephant Shrew
+Macroscelidea,Macroscelididae,Elephantulus,intufi,1.14,49.545,Bushveld Elephant Shrew
+Macroscelidea,Macroscelididae,Elephantulus,fuscipes,1.33,57,Dusky-footed Elephant Shrew
+Macroscelidea,Macroscelididae,Elephantulus,myurus,1.37,54.576,Eastern Rock Elephant Shrew
+Macroscelidea,Macroscelididae,Rhynchocyon,cirnei,5.9,507.5,Checkered Elephant Shrew
+Microbiotheria,Microbiotheriidae,Dromiciops,gliroides,0.81,24,Monito del Monte
+Monotremata,Ornithorhynchidae,Ornithorhynchus,anatinus,10.08,1389,Platypus
+Monotremata,Tachyglossidae,Tachyglossus,aculeatus,20.73,4250,Short-beaked Echidna
+Monotremata,Tachyglossidae,Zaglossus,bruijni,37.35,7500,New Guinean echidna
+Notoryctemorphia,Notoryctidae,Notoryctes,caurinus,0.78,55,Northern Marsupial Mole
+Paucituberculata,Caenolestidae,Rhyncholestes,raphanurus,0.65,23.5,Chilean 'shrew' opossum
+Paucituberculata,Caenolestidae,Caenolestes,fuliginosus,0.68,35,Dusky Caenolestid
+Peramelemorphia,Chaeropodidae,Chaeropus,ecaudatus,2.4,200,Pig-footed Bandicoot
+Peramelemorphia,Peramelidae,Perameles,bougainville,3.21,226,Western Barred Bandicoot
+Peramelemorphia,Peramelidae,Echymipera,kalubu,3.67,950,Common Echymipera
+Peramelemorphia,Peramelidae,Echymipera,rufescens,3.73,1700,Long-nosed Echymipera
+Peramelemorphia,Peramelidae,Microperoryctes,longicauda,3.81,538,Striped Bandicoot
+Peramelemorphia,Thylacomyidae,Macrotis,leucura,4.3,355.5,Lesser Bilby
+Peramelemorphia,Peramelidae,Isoodon,macrourus,4.42,1600,Northern Brown Bandicoot
+Peramelemorphia,Peramelidae,Echymipera,clara,4.48,1236.5,Clara s Echymipera
+Peramelemorphia,Peramelidae,Perameles,gunnii,4.5,750,Eastern Barred Bandicoot
+Peramelemorphia,Peramelidae,Perameles,nasuta,4.96,960,Long-nosed Bandicoot
+Peramelemorphia,Peramelidae,Peroryctes,raffrayana,6.33,830,Raffray s Bandicoot
+Peramelemorphia,Thylacomyidae,Macrotis,lagotis,6.57,1800,Greater Bilby
+Peramelemorphia,Peramelidae,Isoodon,obesulus,4.03,691,Southern Brown Bandicoot
+Peramelemorphia,Peramelidae,Rhynchomeles,prattorum,4.9,907,Ceram Island long-nosed bandicoot
+Perissodactyla,Equidae,Equus,asinus,434,234000,African Wild Ass
+Perissodactyla,Tapiridae,Tapirus,indicus,265,201000,Asian tapir
+Perissodactyla,Equidae,Equus,zebra,548,275885,Cape mountain zebra
+Perissodactyla,Rhinocerotidae,Diceros,bicornis,655,765450,African black rhinoceros
+Perissodactyla,Equidae,Equus,caballus,693,340722,Horse
+Perissodactyla,Tapiridae,Tapirus,bairdii,85,14260,Baird's Tapir
+Perissodactyla,Tapiridae,Tapirus,terrestris,180.5,160000,Brazilian Tapir
+Perissodactyla,Equidae,Equus,quagga,562,264514,Plains Zebra
+Perissodactyla,Equidae,Equus,burchellii,612,250000,Burchell's Zebra
+Perissodactyla,Rhinocerotidae,Ceratotherium,simum,643,1400000,Southern White Rhinoceros
+Perissodactyla,Rhinocerotidae,Rhinoceros,unicornis,786,2250000,Indian One-horned Rhinoceros
+Pholidota,Manidae,Manis,tricuspis,9.4,1790,Tree Pangolin
+Pholidota,Manidae,Manis,javanica,13.7,5150,Sunda Pangolin
+Pholidota,Manidae,Manis,pentadactyla,17.64,4675,Chinese Pangolin
+Pilosa,Bradypodidae,Bradypus,variegatus,16.03,3263,Brown-throated Sloth
+Pilosa,Megalonychidae,Choloepus,hoffmanni,24.54,5048,Hoffmann s Two-toed Sloth
+Pilosa,Myrmecophagidae,Tamandua,tetradactyla,27.5,4361,Collared Anteater
+Pilosa,Megalonychidae,Choloepus,didactylus,28.2,5070,Linnaeus s Two-toed Sloth
+Pilosa,Myrmecophagidae,Myrmecophaga,tridactyla,84,18940,Giant Anteater
+Pilosa,Cyclopedidae,Cyclopes,didactylus,4.29,400,Silky Anteater
+Pilosa,Bradypodidae,Bradypus,tridactylus,24.9,4097,Pale-throated Sloth
+Primates,Cheirogaleidae,Microcebus,rufus,1.716401667,42.5,Eastern Rufous Mouse Lemur
+Primates,Cheirogaleidae,Cheirogaleus,adipicaudatus,3.037359,340,Spiny Desert Dwarf Lemur
+Primates,Galagidae,Galago,thomasi,3.1175415,116.5,Thomas s Bushbaby
+Primates,Cheirogaleidae,Cheirogaleus,medius,3.34,179.67,Fat-tailed Dwarf Lemur
+Primates,Tarsiidae,Tarsius,syrichta,3.358721556,125.5,Philippine Tarsier
+Primates,Galagidae,Galago,moholi,3.705247654,148.379097,Moholi Bushbaby
+Primates,Galagidae,Galago,matschiei,4.621870667,209.5,Dusky Bushbaby
+Primates,Galagidae,Euoticus,pallidus,5.185675111,300,Northern Needle-clawed Bushbaby
+Primates,Galagidae,Galago,gabonensis,5.357372143,273,Gabon Bushbaby
+Primates,Galagidae,Euoticus,elegantulus,5.534683,274,Southern Needle-clawed Bushbaby
+Primates,Galagidae,Galago,cameronensis,5.580927369,251.5,Cross River Bushbaby
+Primates,Cheirogaleidae,Mirza,coquereli,5.79587525,311.5,Coquerel's Giant Mouse Lemur
+Primates,Cheirogaleidae,Phaner,pallescens,6.681421429,339,Pale Fork-crowned Lemur
+Primates,Lepilemuridae,Lepilemur,dorsalis,6.7,870,Black-striped Sportive Lemur
+Primates,Lepilemuridae,Lepilemur,leucopus,6.869683333,605.5,White-footed Sportive Lemur
+Primates,Lorisidae,Arctocebus,calabarensis,6.921393272,309,Calabar Angwantibo
+Primates,Lepilemuridae,Lepilemur,edwardsi,7.25,931,Milne-Edwards s Sportive Lemur
+Primates,Cebidae,Callithrix,jacchus,7.73,347.45,Common Marmoset
+Primates,Indridae,Avahi,occidentalis,7.95,801.4,Western Woolly Lemur
+Primates,Lepilemuridae,Lepilemur,ruficaudatus,8.25,804.5,Red-tailed Sportive Lemur
+Primates,Cebidae,Saguinus,niger,9.481117691,375,Black Tamarin
+Primates,Cebidae,Saguinus,pileatus,9.555186215,524.5,Red-capped Tamarin
+Primates,Cebidae,Saguinus,oedipus,9.64,327.14,Cotton-top Tamarin
+Primates,Cebidae,Saguinus,leucopus,9.701980496,524.5,White-footed Tamarin
+Primates,Lepilemuridae,Lepilemur,microdon,9.75,970,Small-toothed Sportive Lemur
+Primates,Cebidae,Saguinus,midas,9.783900055,563,Midas Tamarin
+Primates,Cebidae,Saguinus,labiatus,10.01174938,520,Red-bellied Tamarin
+Primates,Galagidae,Otolemur,monteiri,11.4,1318.5,Silvery Greater Galago
+Primates,Galagidae,Otolemur,garnettii,11.49575776,764,Garnett's Greater Galago
+Primates,Galagidae,Otolemur,crassicaudatus,11.77750484,1150,Brown Greater Galago
+Primates,Cebidae,Leontopithecus,chrysomelas,11.84274929,655,Golden-headed Lion Tamarin
+Primates,Cebidae,Leontopithecus,rosalia,13.05,512.38,Golden Lion Tamarin
+Primates,Lemuridae,Hapalemur,alaotrensis,13.8,1239.5,Bandro
+Primates,Cebidae,Saguinus,geoffroyi,14.27,634.67,Geoffroy s Tamarin
+Primates,Aotidae,Aotus,trivirgatus,16.04,701.68,Humboldt's Night Monkey
+Primates,Pitheciidae,Callicebus,caligatus,17.25,880,Chestnut-bellied Titi
+Primates,Pitheciidae,Callicebus,discolor,17.52877484,875,Red-crowned Titi
+Primates,Pitheciidae,Callicebus,lugens,18.97246891,1090,Black Titi
+Primates,Pitheciidae,Callicebus,medemi,19.4358771,1156.75,Colombian Black-handed Titi
+Primates,Cebidae,Callithrix,geoffroyi,19.9,793,Geoffroy's Tufted-ear Marmoset
+Primates,Lemuridae,Eulemur,coronatus,20.65096286,1180,Crowned Lemur
+Primates,Lemuridae,Eulemur,albifrons,21.4474,2335.5,White-fronted Brown Lemur
+Primates,Lemuridae,Eulemur,albocollaris,22.1,2140,White-collared Lemur
+Primates,Cebidae,Saimiri,oerstedii,22.45,605,Central American Squirrel Monkey
+Primates,Cebidae,Saimiri,sciureus,23.35,578.7,Common Squirrel Monkey
+Primates,Lemuridae,Eulemur,rufus,25.39597,2220,Red-fronted Lemur
+Primates,Indridae,Propithecus,deckenii,30.15115857,3531.666667,Decken's Sifaka
+Primates,Indridae,Propithecus,coquereli,30.1941,3728.5,Coquerel s Sifaka
+Primates,Lemuridae,Varecia,variegata,31.2,2705.5,Black-and-white Ruffed Lemur
+Primates,Cercopithecidae,Miopithecus,ogouensis,37.35100076,1750,Gabon Talapoin
+Primates,Indridae,Propithecus,diadema,39.79932123,6130,Diademed Sifaka
+Primates,Atelidae,Alouatta,seniculus,45.5,2827.5,Colombian Red Howler
+Primates,Pitheciidae,Chiropotes,satanas,48.3303075,3030,Black Bearded Saki
+Primates,Atelidae,Alouatta,pigra,51.125,8915,Black Howler Monkey
+Primates,Cercopithecidae,Procolobus,verus,52.60038807,4450,Olive Colobus
+Primates,Atelidae,Alouatta,belzebul,52.84375,6395,Red-handed Howler
+Primates,Cercopithecidae,Cercopithecus,petaurista,55.0765687,3609.090909,Lesser Spot-nosed Monkey
+Primates,Pitheciidae,Chiropotes,israelita,55.13476114,2273.733333,Brown-backed Bearded Saki
+Primates,Pitheciidae,Chiropotes,chiropotes,57.0429933,2740,Red-backed Bearded Saki
+Primates,Cercopithecidae,Piliocolobus,kirkii,57.25,5630,Zanzibar Red Colobus
+Primates,Cercopithecidae,Allenopithecus,nigroviridis,58.02104036,4655,Allen s Swamp Monkey
+Primates,Cercopithecidae,Cercopithecus,pogonias,59.56481481,3580,Crested Mona Monkey
+Primates,Cercopithecidae,Presbytis,siamensis,60.9420844,5876.464286,Pale-thighed Langur
+Primates,Atelidae,Alouatta,macconnelli,61.33078407,6398.31,Guianan Red Howler
+Primates,Cercopithecidae,Cercopithecus,wolfi,61.45,3390,Wolf s Mona Monkey
+Primates,Cercopithecidae,Chlorocebus,pygerythrus,62.57741972,4323.523333,Vervet Monkey
+Primates,Cebidae,Cebus,albifrons,62.95,1620,Humboldt's White-fronted Capuchin
+Primates,Cercopithecidae,Chlorocebus,aethiops,64.13,3452.67,Grivet
+Primates,Cebidae,Cebus,libidinosus,64.68541627,2509.779135,Black-striped Capuchin
+Primates,Cercopithecidae,Chlorocebus,sabaeus,64.91330945,4311.8,Green Monkey
+Primates,Cercopithecidae,Cercopithecus,doggetti,65.35648964,6350.333333,Silver Monkey
+Primates,Cercopithecidae,Cercopithecus,hamlyni,65.9,4425,Hamlyn s Monkey
+Primates,Cercopithecidae,Macaca,fascicularis,66.93,3109.45,Crab-eating Macaque
+Primates,Cebidae,Cebus,nigritus,67.06601569,2730.833333,Black Capuchin
+Primates,Cercopithecidae,Cercopithecus,albogularis,70.09979995,5619.835417,Sykes  Monkey
+Primates,Cebidae,Cebus,capucinus,70.14,2104.88,Colombian White-faced Capuchin
+Primates,Cercopithecidae,Piliocolobus,tephrosceles,70.95189469,8408.8,Ashy Red Colobus
+Primates,Cercopithecidae,Presbytis,rubicunda,71.01506525,6265.597403,Maroon Langur
+Primates,Cercopithecidae,Cercopithecus,nictitans,71.125,5465,Greater spot-nosed Monkey
+Primates,Cebidae,Cebus,apella,71.3,2589,Tufted Capuchin
+Primates,Cercopithecidae,Presbytis,chrysomelas,72.11214505,6718.666667,Cross-marked Langur
+Primates,Cercopithecidae,Trachypithecus,phayrei,72.84012102,7474.916667,Phayre s Leaf-monkey
+Primates,Cercopithecidae,Presbytis,thomasi,72.9324425,6730,Thomas s Langur
+Primates,Cercopithecidae,Colobus,vellerosus,73.07082038,7820,Ursine Colobus
+Primates,Cercopithecidae,Presbytis,femoralis,73.73566609,6847.877778,Banded Langur
+Primates,Cercopithecidae,Cercopithecus,lhoesti,74.2,4710,L Hoest s Monkey
+Primates,Cercopithecidae,Colobus,satanas,74.9,8910,Black Colobus
+Primates,Cercopithecidae,Presbytis,frontata,81.016855,5615,White-fronted Langur
+Primates,Cercopithecidae,Macaca,cyclopis,82,5470,Formosan Rock Macaque
+Primates,Cercopithecidae,Pygathrix,nigripes,82.74758167,10333.32,Black-shanked Douc
+Primates,Cercopithecidae,Semnopithecus,priam,83.06847425,8561.571429,Tufted Gray Langur
+Primates,Hylobatidae,Hylobates,pileatus,84.68518519,5470,Pileated Gibbon
+Primates,Cercopithecidae,Macaca,silenus,85,7500,Lion-tailed Macaque
+Primates,Cercopithecidae,Macaca,leonina,85.59808114,5641.583333,Northern Pig-tailed Macaque
+Primates,Cercopithecidae,Macaca,mulatta,87.99,4612.78,Rhesus Macaque
+Primates,Hylobatidae,Hylobates,klossii,87.9912525,5795,Kloss s Gibbon
+Primates,Hylobatidae,Hylobates,agilis,88.1,5528.75,Agile Gibbon
+Primates,Cercopithecidae,Semnopithecus,dussumieri,90.09252244,10664.29167,Southern Plains Gray Langur
+Primates,Hylobatidae,Hylobates,lar,93.99,5550,Lar Gibbon
+Primates,Cercopithecidae,Trachypithecus,francoisi,94.4,9100,Francois' Langur
+Primates,Cercopithecidae,Macaca,maura,94.48,6846,Moor Macaque
+Primates,Hylobatidae,Hylobates,muelleri,95.31,5954.88,Borneo gibbon
+Primates,Cercopithecidae,Macaca,ochreata,97.98,3400,Booted Macaque
+Primates,Atelidae,Ateles,chamek,99,9370,Black Spider Monkey
+Primates,Cercopithecidae,Cercocebus,galeritus,99.07042,7435,Tana River Crested Mangabey, Tana River Mangabey
+Primates,Atelidae,Lagothrix,cana,99.3440883,8215,Gray Woolly Monkey
+Primates,Cercopithecidae,Erythrocebus,patas,100.2,7376,Patas Monkey
+Primates,Cercopithecidae,Macaca,arctoides,100.7,7630,Stump-tailed Macaque
+Primates,Cercopithecidae,Lophocebus,aterrimus,101.59092,6800,Black Crested Mangabey
+Primates,Atelidae,Ateles,hybridus,103.0541476,7862.25,Brown Spider Monkey
+Primates,Cercopithecidae,Trachypithecus,pileatus,103.6408481,11793.5,Capped Langur
+Primates,Atelidae,Ateles,geoffroyi,104.96,5774,Central American Spider Monkey
+Primates,Cercopithecidae,Cercocebus,torquatus,105.9883346,7485,Collared Mangabey
+Primates,Atelidae,Ateles,paniscus,108.96,3430,Red-faced Black Spider Monkey
+Primates,Hylobatidae,Bunopithecus,hoolock,110.6803571,6728.25,Hoolock Gibbon
+Primates,Aotidae,Aotus,lemurinus,113.5,9026.5,Gray-bellied Night Monkey
+Primates,Atelidae,Ateles,fusciceps,113.6,9026.5,Black-headed Spider Monkey
+Primates,Cercopithecidae,Rhinopithecus,roxellana,117.75699,14750,Golden Snub-nosed Monkey
+Primates,Hylobatidae,Nomascus,gabriellae,119.375,7365,Red-cheeked Gibbon
+Primates,Cercopithecidae,Semnopithecus,schistaceus,129.2495323,17000,Nepal Gray Langur
+Primates,Cercopithecidae,Semnopithecus,ajax,132.0574198,16329.75,Chamba Sacred Langur
+Primates,Hylobatidae,Symphalangus,syndactylus,134.8,12172,Siamang
+Primates,Cercopithecidae,Papio,papio,142.5,18026.05,Guinea Baboon
+Primates,Cercopithecidae,Mandrillus,leucophaeus,148,15000,Drill
+Primates,Hominidae,Pan,paniscus,329.7,39700,Bonobo
+Primates,Hominidae,Pongo,pygmaeus,341.99,54229.04,Bornean Orangutan
+Primates,Hominidae,Pan,troglodytes,354.81,60433.16,Chimpanzee
+Primates,Hominidae,Gorilla,gorilla,454.55,120975,Western Gorilla
+Primates,Hominidae,Homo,sapiens,1250.43,65142.86,Human
+Primates,Hominidae,Pongo,abelii,389.495,62815,Sumatran Orangutan
+Primates,Hominidae,Gorilla,beringei,491.27,130000,Eastern Gorilla
+Primates,Cebidae,Callithrix,pygmaea,4.64,134.75,Pygmy Marmoset
+Primates,Galagidae,Galago,senegalensis,5.9,300.33,Northern Lesser Galago
+Primates,Lorisidae,Loris,tardigradus,6,322,Red Slender Loris
+Primates,Lorisidae,Perodicticus,potto,12.07,929.33,Potto
+Primates,Tarsiidae,Tarsius,bancanus,2.7,77.6,Horsfield s Tarsier
+Primates,Lorisidae,Nycticebus,pygmaeus,7.8,480,Pygmy Slow Loris
+Primates,Cebidae,Saimiri,boliviensis,24.06,750,Black-capped Squirrel Monkey
+Primates,Cercopithecidae,Colobus,guereza,83.9,10281.25,Guereza
+Primates,Cercopithecidae,Cercocebus,agilis,95.3,4700,Agile Mangabey
+Primates,Cercopithecidae,Macaca,nigra,97.5,3452,Celebes Crested Macaque
+Primates,Cercopithecidae,Theropithecus,gelada,130,7710,Gelada
+Primates,Cercopithecidae,Mandrillus,sphinx,159.2,11500,Mandrill
+Primates,Tarsiidae,Tarsius,dentatus,2.995447,113,Dian s Tarsier
+Primates,Cheirogaleidae,Phaner,electromontis,7.2,400,Montagne d'Ambre Fork-marked Lemur
+Primates,Lemuridae,Hapalemur,occidentalis,14.2,1202.71,Northern Bamboo Lemur
+Primates,Pitheciidae,Callicebus,regulus,23,1129.785,Juruá Collared Titi
+Primates,Lemuridae,Varecia,rubra,31.08391333,3470,Red Ruffed Lemur
+Primates,Cercopithecidae,Presbytis,potenziani,57,4817,Mentawai Langur
+Primates,Cercopithecidae,Presbytis,natunae,57.19,5065,Natuna Island Surili
+Primates,Atelidae,Alouatta,sara,59.08333333,6611.04,Bolivian Red Howler
+Primates,Cercopithecidae,Presbytis,hosei,60,5630,Hose s Langur
+Primates,Cercopithecidae,Trachypithecus,auratus,63.6,9525,East Javan Langur
+Primates,Cercopithecidae,Macaca,tonkeana,93.7,9000,Tonkean Macaque
+Primates,Cercopithecidae,Macaca,hecki,94.6,6800,Heck s Macaque
+Primates,Lorisidae,Nycticebus,coucang,12.74,655.5,Bengal Slow Loris
+Primates,Atelidae,Alouatta,palliata,50.04,5952,Mantled Howler
+Primates,Cercopithecidae,Cercopithecus,mona,67,3001,Mona Monkey
+Primates,Cercopithecidae,Colobus,angolensis,74.4,9670,Angola Colobus
+Primates,Cercopithecidae,Papio,hamadryas,142,12020,Hamadryas Baboon
+Primates,Galagidae,Galago,granti,4.073808,181.85,Grant s Bushbaby
+Primates,Cheirogaleidae,Cheirogaleus,sibreei,4.4,420.11,Sibree s Dwarf Lemur
+Primates,Cebidae,Callithrix,aurita,7.2,429,Buffy-tufted Marmoset
+Primates,Pitheciidae,Pithecia,irrorata,39.5,2308.17,Gray's Bald-faced Saki
+Primates,Cercopithecidae,Trachypithecus,germaini,76,7071.5,Germain's Langur
+Primates,Atelidae,Lagothrix,poeppigii,99.23,9072,Poeppig's Woolly Monkey
+Primates,Hylobatidae,Hylobates,moloch,103,6577,Moloch Gibbon
+Primates,Cercopithecidae,Chlorocebus,cynosuros,72,2920,Malbrouck
+Primates,Atelidae,Ateles,marginatus,97,3201,White-cheeked Spider Monkey
+Primates,Cheirogaleidae,Microcebus,murinus,1.84,58,Gray Mouse Lemur
+Primates,Galagidae,Galago,demidoff,3.38,81,Prince Demidoff s Bushbaby
+Primates,Tarsiidae,Tarsius,tarsier,3.4,126,Selayar Tarsier
+Primates,Galagidae,Galago,zanzibaricus,3.5,143,Zanzibar Bushbaby
+Primates,Galagidae,Galago,alleni,5.85,273,Allen's squirrel galago
+Primates,Lorisidae,Arctocebus,aureus,5.877635065,210,Calabar Angwantibo
+Primates,Lorisidae,Loris,lydekkerianus,6.3,267,Gray Slender Loris
+Primates,Cheirogaleidae,Phaner,furcifer,6.47,460,Masoala Fork-crowned Lemur
+Primates,Cheirogaleidae,Cheirogaleus,major,6.8,450,Greater Dwarf Lemur
+Primates,Cebidae,Callithrix,penicillata,7.3,328,Black-tufted Marmoset
+Primates,Cebidae,Saguinus,fuscicollis,7.9,401,Brown-mantled Tamarin
+Primates,Cebidae,Callithrix,argentata,8,345,Silvery Marmoset
+Primates,Cebidae,Callithrix,humeralifera,8.2,370,Santarem Marmoset
+Primates,Cebidae,Saguinus,nigricollis,8.9,476,Black-mantled Tamarin
+Primates,Lepilemuridae,Lepilemur,mustelinus,9.55991,777,Weasel Lemur
+Primates,Indridae,Avahi,laniger,10.49,1285,Eastern Woolly Lemur
+Primates,Cebidae,Saguinus,mystax,11.1,584,Moustached Tamarin
+Primates,Cebidae,Callimico,goeldii,11.4,484,Goeldi s Marmoset
+Primates,Lorisidae,Nycticebus,bengalensis,13.5,1060,Bengal Slow Loris
+Primates,Lemuridae,Hapalemur,griseus,14.1,709,Gray Bamboo Lemur
+Primates,Pitheciidae,Callicebus,cupreus,17.1,815,Coppery Titi
+Primates,Pitheciidae,Callicebus,moloch,19,900,Red-bellied Titi
+Primates,Pitheciidae,Callicebus,torquatus,19.1,980,Collared Titi
+Primates,Aotidae,Aotus,azarae,20.7,1230,Azara s Night Monkey
+Primates,Lemuridae,Lemur,catta,21.63,2090,Ring-tailed Lemur
+Primates,Lemuridae,Eulemur,macaco,22.6,2086.17,Black Lemur
+Primates,Lemuridae,Eulemur,mongoz,24.03,1559.33,Mongoose Lemur
+Primates,Lemuridae,Eulemur,rubriventer,24.9,1015,Red-bellied Lemur
+Primates,Lemuridae,Eulemur,fulvus,25.8,2292,Brown Lemur
+Primates,Indridae,Propithecus,verreauxi,26.7,3480,Verreaux s Sifaka
+Primates,Lemuridae,Prolemur,simus,27.14488333,2150,Greater Bamboo Lemur
+Primates,Pitheciidae,Pithecia,pithecia,32.6,1580,Guianan saki
+Primates,Cercopithecidae,Miopithecus,talapoin,34.8,1560,Angolan Talapoin
+Primates,Pitheciidae,Pithecia,monachus,35,1500,Geoffroy's Monk Saki
+Primates,Indridae,Indri,indri,38.3,6250,Indri
+Primates,Indridae,Propithecus,edwardsi,39.5,5682,Milne-Edwards s Sifaka
+Primates,Daubentoniidae,Daubentonia,madagascariensis,45.15,2800,Aye-aye
+Primates,Atelidae,Alouatta,guariba,49.1,4550,Brown Howler
+Primates,Atelidae,Alouatta,caraya,50.7,5012.5,Black Howler
+Primates,Cercopithecidae,Cercopithecus,lowei,51.2,2097,Lowe s Mona Monkey
+Primates,Cercopithecidae,Cercopithecus,campbelli,54.4,2700,Campbell s Mona Monkey
+Primates,Cercopithecidae,Cercopithecus,ascanius,54.9,2901,Red-tailed Monkey
+Primates,Cercopithecidae,Trachypithecus,cristatus,55,6060,Silvered Langur
+Primates,Cercopithecidae,Cercopithecus,diana,55.2,3900,Diana Monkey
+Primates,Cercopithecidae,Simias,concolor,56.2,6800,Pig-tailed Langur
+Primates,Cercopithecidae,Macaca,sinica,58.15,1970,Toque Macaque
+Primates,Cercopithecidae,Presbytis,melalophos,59.2,6567,Black-crested Sumatran Langur
+Primates,Cercopithecidae,Trachypithecus,obscurus,60,6765,Dusky Langur
+Primates,Cercopithecidae,Trachypithecus,vetulus,60.4,5103,Purple-faced Langur
+Primates,Cercopithecidae,Cercopithecus,neglectus,60.9,4130,De Brazza s Monkey
+Primates,Pitheciidae,Cacajao,melanocephalus,64.9,2710,Black-faced Uacari
+Primates,Cercopithecidae,Cercopithecus,erythrotis,65.4,3250,Red-eared Guenon
+Primates,Cercopithecidae,Macaca,radiata,69.4,3856,Bonnet Macaque
+Primates,Cercopithecidae,Colobus,polykomos,70.2,8300,King Colobus
+Primates,Cebidae,Cebus,olivaceus,72.5,2684.5,Guianan Weeper Capuchin
+Primates,Pitheciidae,Cacajao,calvus,74.3,2880,Bald Uacari
+Primates,Cercopithecidae,Cercopithecus,mitis,75,6300,Blue Monkey
+Primates,Cercopithecidae,Cercopithecus,cephus,76,3508.33,Moustached Guenon
+Primates,Cercopithecidae,Pygathrix,nemaeus,77,7500,Douc langur
+Primates,Cercopithecidae,Piliocolobus,badius,78,7000,Upper Guinea Red Colobus
+Primates,Cercopithecidae,Presbytis,comata,80.3,6695,Javan Langur
+Primates,Cercopithecidae,Trachypithecus,geei,81.3,9500,Gee s Golden Langur
+Primates,Cercopithecidae,Nasalis,larvatus,83.8,9730,Proboscis Monkey
+Primates,Cercopithecidae,Trachypithecus,johnii,84.6,11600,Nilgiri Langur
+Primates,Cercopithecidae,Cercocebus,atys,86.8,6200,Sooty Mangabey
+Primates,Cercopithecidae,Macaca,sylvanus,87.7,11200,Barbary Macaque
+Primates,Cercopithecidae,Semnopithecus,hypoleucos,88.3,10130,Black-footed Gray Langur
+Primates,Atelidae,Lagothrix,lagotricha,89.35,3905,Brown Woolly Monkey
+Primates,Cercopithecidae,Macaca,assamensis,90.5,3655,Assam Macaque
+Primates,Cercopithecidae,Lophocebus,albigena,96.8,5125,Gray-cheeked Mangabey
+Primates,Cercopithecidae,Macaca,fuscata,96.8,8030,Japanese Macaque
+Primates,Cercopithecidae,Macaca,nemestrina,110,4456,Southern Pig-tailed Macaque
+Primates,Cercopithecidae,Semnopithecus,entellus,111.5,7010,Bengal Sacred Langur
+Primates,Atelidae,Ateles,belzebuth,112.7,8484,White-bellied Spider Monkey
+Primates,Atelidae,Brachyteles,arachnoides,119.4,8840,Southern Muriqui
+Primates,Cercopithecidae,Papio,anubis,152.4,13300,Olive Baboon
+Primates,Cercopithecidae,Papio,cynocephalus,156.1,12000,Yellow Baboon
+Primates,Cercopithecidae,Papio,ursinus,165,14800,Chacma Baboon
+Proboscidea,Elephantidae,Loxodonta,africana,5436.4,4301340,African Bush Elephant
+Proboscidea,Elephantidae,Elephas,maximus,5211.25,2765457.5,Asian Elephant
+Rodentia,Muridae,Micromys,minutus,0.29,6.4,Harvest Mouse
+Rodentia,Heteromyidae,Perognathus,flavus,0.31,8.4,Silky Pocket Mouse
+Rodentia,Muridae,Mus,booduga,0.31,14.6,Little Indian Field Mouse
+Rodentia,Heteromyidae,Perognathus,longimembris,0.33,8.15,Little Pocket Mouse
+Rodentia,Cricetidae,Reithrodontomys,megalotis,0.4,10.7,Western Harvest Mouse
+Rodentia,Cricetidae,Peromyscus,polionotus,0.42,13.32,Oldfield Deermouse
+Rodentia,Cricetidae,Lagurus,lagurus,0.42,20.1,Steppe Lemming
+Rodentia,Muridae,Otomys,angoniensis,0.42,95,Angoni Vlei Rat
+Rodentia,Heteromyidae,Chaetodipus,penicillatus,0.46,16.25,Desert Pocket Mouse
+Rodentia,Dipodidae,Napaeozapus,insignis,0.48,23.2,Woodland Jumping Mouse
+Rodentia,Heteromyidae,Chaetodipus,formosus,0.49,18.1,Long-tailed Pocket Mouse
+Rodentia,Dipodidae,Zapus,princeps,0.5,24.5,Western Jumping Mouse
+Rodentia,Muridae,Mus,platythrix,0.5,29.2,Flat-haired Mouse
+Rodentia,Cricetidae,Myodes,glareolus,0.52,17.9,Bank Vole
+Rodentia,Cricetidae,Microtus,oregoni,0.52,22,Creeping Vole
+Rodentia,Bathyergidae,Heterocephalus,glaber,0.52,60.8,Naked Mole-rat
+Rodentia,Cricetidae,Peromyscus,crinitus,0.53,13.56,Canyon Deermouse
+Rodentia,Cricetidae,Peromyscus,eremicus,0.54,19.93,Cactus Deermouse
+Rodentia,Dipodidae,Zapus,hudsonius,0.55,17.47,Meadow Jumping Mouse
+Rodentia,Cricetidae,Microtus,arvalis,0.55,30.4,Common Vole
+Rodentia,Heteromyidae,Microdipodops,megacephalus,0.56,13.85,Dark Kangaroo Mouse
+Rodentia,Cricetidae,Myodes,gapperi,0.56,16.9,Gapper's Red-backed Mouse
+Rodentia,Cricetidae,Myodes,rutilus,0.56,17.6,Northern Red-backed Mouse
+Rodentia,Cricetidae,Peromyscus,merriami,0.56,20.72,Merriam s Deermouse
+Rodentia,Cricetidae,Microtus,pinetorum,0.56,24.9,Pine Vole
+Rodentia,Cricetidae,Myopus,schisticolor,0.56,33.5,Wood Lemming
+Rodentia,Cricetidae,Peromyscus,maniculatus,0.57,21.65,Deer Mouse
+Rodentia,Muridae,Acomys,wilsoni,0.58,18.5,Wilson s Spiny mouse
+Rodentia,Cricetidae,Onychomys,torridus,0.59,20.02,Southern Grasshopper Mouse
+Rodentia,Muridae,Apodemus,sylvaticus,0.59,20.1,Common Field Mouse
+Rodentia,Cricetidae,Synaptomys,cooperi,0.59,23.8,Southern Bog Lemming
+Rodentia,Muridae,Gerbillus,nanus,0.6,14,Baluchistan Gerbil
+Rodentia,Cricetidae,Peromyscus,leucopus,0.6,21.21,White-footed Deermouse
+Rodentia,Cricetidae,Myodes,rufocanus,0.61,38.3,Gray Red-backed Vole
+Rodentia,Heteromyidae,Chaetodipus,californicus,0.62,26,California Pocket Mouse
+Rodentia,Cricetidae,Peromyscus,melanotis,0.63,39.6,Black-eared Deermouse
+Rodentia,Cricetidae,Oligoryzomys,longicaudatus,0.67,26.6,Long-tailed Colilargo
+Rodentia,Cricetidae,Peromyscus,gossypinus,0.68,28.25,Cotton Deermouse
+Rodentia,Muridae,Praomys,daltoni,0.68,35,Dalton s Praomys
+Rodentia,Heteromyidae,Chaetodipus,hispidus,0.68,37.1,Hispid Pocket Mouse
+Rodentia,Muridae,Gerbillus,gleadowi,0.69,26.1,Indian Hairy-footed Gerbil
+Rodentia,Cricetidae,Microtus,montanus,0.69,39.7,Montane Vole
+Rodentia,Muridae,Rhabdomys,pumilio,0.69,39.71,Xeric Four-striped Grass Rat
+Rodentia,Cricetidae,Microtus,guentheri,0.69,51.3,Guenther s Vole
+Rodentia,Muridae,Chiropodomys,gliroides,0.7,25.3,Indomalayan Pencil-tailed Tree Mouse
+Rodentia,Cricetidae,Peromyscus,yucatanicus,0.7,26.3,Yucatan deer mouse
+Rodentia,Heteromyidae,Chaetodipus,baileyi,0.7,29.75,Bailey s Pocket Mouse
+Rodentia,Cricetidae,Microtus,longicaudus,0.7,47.4,Coronation Island vole
+Rodentia,Cricetidae,Peromyscus,boylii,0.71,27.47,Brush Deermouse
+Rodentia,Cricetidae,Microtus,ochrogaster,0.71,43.8,Prairie Vole
+Rodentia,Cricetidae,Dicrostonyx,groenlandicus,0.72,68.4,Collared Lemming
+Rodentia,Cricetidae,Microtus,pennsylvanicus,0.74,30.13,Meadow Vole
+Rodentia,Cricetidae,Microtus,agrestis,0.74,32.4,Field Vole
+Rodentia,Cricetidae,Peromyscus,truei,0.75,27.35,Pinyon Mouse
+Rodentia,Muridae,Uranomys,ruddi,0.77,33.6,Rudd s Bristle-furred Rat
+Rodentia,Heteromyidae,Liomys,pictus,0.77,43.35,Painted Spiny Pocket Mouse
+Rodentia,Heteromyidae,Liomys,salvini,0.77,44.9,Salvin s Spiny Pocket Mouse
+Rodentia,Cricetidae,Microtus,californicus,0.78,43.3,Amargosa Vole
+Rodentia,Cricetidae,Onychomys,leucogaster,0.8,27.39,Northern Grasshopper Mouse
+Rodentia,Nesomyidae,Saccostomus,campestris,0.82,49.35,Pouched Mouse
+Rodentia,Muridae,Gerbillurus,paeba,0.84,24,Hairy-footed Gerbil
+Rodentia,Muridae,Praomys,morio,0.84,46.5,Cameroon Praomys
+Rodentia,Cricetidae,Dicrostonyx,torquatus,0.84,73,Arctic Lemming
+Rodentia,Muridae,Lemniscomys,striatus,0.85,46.2,Typical Lemniscomys
+Rodentia,Muridae,Praomys,tullbergi,0.86,37.2,Tullberg s Praomys
+Rodentia,Cricetidae,Lemmus,lemmus,0.86,68.9,Norway Lemming
+Rodentia,Muridae,Gerbillus,pyramidum,0.88,40.9,Greater Egyptian Gerbil
+Rodentia,Cricetidae,Microtus,townsendii,0.88,45.8,Townsend s Vole
+Rodentia,Cricetidae,Oryzomys,palustris,0.88,47.1,Marsh Oryzomys
+Rodentia,Muridae,Rattus,exulans,0.89,60.3,Little Rat
+Rodentia,Muridae,Micaelamys,namaquensis,0.89,79.4,Namaqua Micaelamys
+Rodentia,Cricetidae,Dicrostonyx,richardsoni,0.8983,52.1,Richardson s Collared Lemming
+Rodentia,Muridae,Dipodillus,campestris,0.9,27.5,Large North African Gerbil
+Rodentia,Cricetidae,Lemmus,trimucronatus,0.9,69.6,Nearctic Brown Lemming
+Rodentia,Cricetidae,Peromyscus,californicus,0.91,43.53,California Deermouse
+Rodentia,Cricetidae,Peromyscus,aztecus,0.92,39.73,Aztec Deermouse
+Rodentia,Cricetidae,Podomys,floridanus,0.94,33.47,Florida Deermouse
+Rodentia,Cricetidae,Peromyscus,melanophrys,0.94,45,Plateau Deermouse
+Rodentia,Muridae,Mus,musculoides,0.96,8.23,Subsaharan Pygmy Mouse
+Rodentia,Muridae,Notomys,alexis,0.96,37,Spinifex Hopping Mouse
+Rodentia,Muridae,Grammomys,cometes,0.96,40.7,Mozambique Grammomys
+Rodentia,Muridae,Meriones,hurrianae,0.97,71.3,Indian Desert Gerbil
+Rodentia,Muridae,Lophuromys,flavopunctatus,1.01,60,Ethiopian Buff-spotted Brush-furred Rat
+Rodentia,Cricetidae,Peromyscus,mexicanus,1.02,46.55,Mexican Deer Mouse
+Rodentia,Cricetidae,Peromyscus,melanocarpus,1.03,58.8,Black-wristed Deermouse
+Rodentia,Muridae,Pseudomys,hermannsburgensis,1.08,13.38,Sandy Inland Pseudomys
+Rodentia,Cricetidae,Nyctomys,sumichrasti,1.08,60,Sumichrast s Vesper Rat
+Rodentia,Heteromyidae,Dipodomys,merriami,1.1,39.4,Merriam s Kangaroo Rat
+Rodentia,Muridae,Rattus,niobe,1.1,42.1,Eastern New Guinea Mountain Rat
+Rodentia,Muridae,Hybomys,trivirgatus,1.1,57.5,West African Hybomys
+Rodentia,Nesomyidae,Beamys,hindei,1.11,89.75,Hinde s Pouched Rat
+Rodentia,Cricetidae,Peromyscus,megalops,1.12,66.2,Broad-faced Deermouse
+Rodentia,Muridae,Pogonomys,sylvestris,1.13,41.2,Gray-bellied Pogonomys
+Rodentia,Muridae,Meriones,unguiculatus,1.13,57.4,Clawed Jird
+Rodentia,Muridae,Lophuromys,sikapusi,1.13,60.7,Rusty-bellied Brush-furred Rat
+Rodentia,Heteromyidae,Heteromys,desmarestianus,1.13,74.65,Desmarest s Spiny Pocket Mouse
+Rodentia,Cricetidae,Sigmodon,hispidus,1.14,132.5,Hispid Cotton Rat
+Rodentia,Muridae,Pseudomys,australis,1.16,50,Plains Pseudomys
+Rodentia,Cricetidae,Peromyscus,guatemalensis,1.16,52.83,Guatemalan Deer Mouse
+Rodentia,Bathyergidae,Cryptomys,hottentotus,1.17,98.4,Southern African Mole-rat
+Rodentia,Muridae,Malacomys,edwardsi,1.18,60,Edwards  Malacomys
+Rodentia,Heteromyidae,Dipodomys,microps,1.22,62.8,Chisel-toothed Kangaroo Rat
+Rodentia,Geomyidae,Thomomys,talpoides,1.24,105.65,Northern Pocket Gopher
+Rodentia,Muridae,Aethomys,chrysophilus,1.25,117,Red Veld Aethomys
+Rodentia,Cricetidae,Megadontomys,thomasi,1.26,111,Thomas  Big-toothed Deermouse
+Rodentia,Muridae,Paramelomys,rubex,1.27,49.7,Mountain Paramelomys
+Rodentia,Cricetidae,Tscherskia,triton,1.29,25,Greater Long-tailed Hamster
+Rodentia,Muridae,Melomys,rufescens,1.29,54.7,Black-tailed Melomys
+Rodentia,Muridae,Melomys,cervinipes,1.31,70,Fawn-footed Melomys
+Rodentia,Muridae,Dipodillus,dasyurus,1.32,20.5,Wagner s Dipodil
+Rodentia,Cricetidae,Ototylomys,phyllotis,1.33,63,Big-eared Climbing Rat
+Rodentia,Muridae,Arvicanthis,niloticus,1.33,84.5,African Arvicanthis
+Rodentia,Heteromyidae,Dipodomys,agilis,1.34,61.4,Agile Kangaroo Rat
+Rodentia,Muridae,Otomys,irroratus,1.38,141,Southern African Vlei Rat
+Rodentia,Sciuridae,Tamias,amoenus,1.39,50.8,Yellow-pine Chipmunk
+Rodentia,Nesomyidae,Mystromys,albicaudatus,1.39,80,African White-tailed Rat
+Rodentia,Muridae,Rattus,tunneyi,1.41,76.2,Australian Pale Field Rat
+Rodentia,Cricetidae,Holochilus,sciureus,1.41,112.3,Amazonian Marsh Rat
+Rodentia,Muridae,Aethomys,hindei,1.42,146.3,Hinde s Aethomys
+Rodentia,Muridae,Pogonomys,macrourus,1.43,73.9,Chestnut Pogonomys
+Rodentia,Bathyergidae,Heliophobius,argenteocinereus,1.43,160,Silvery Mole-rat
+Rodentia,Heteromyidae,Dipodomys,heermanni,1.44,65.65,Heermann s Kangaroo Rat
+Rodentia,Heteromyidae,Dipodomys,ordii,1.45,57.1,Ord s Kangaroo Rat
+Rodentia,Geomyidae,Thomomys,bottae,1.47,162.95,Botta s Pocket Gopher.
+Rodentia,Muridae,Rattus,verecundus,1.48,59.4,New Guinea slender Rat
+Rodentia,Muridae,Abeomelomys,sevia,1.49,61.4,Papuan Abeomelomys
+Rodentia,Dipodidae,Jaculus,jaculus,1.53,64.2,Lesser Egyptian Jerboa
+Rodentia,Cricetidae,Peromyscus,grandis,1.53,77.32,Big Deer Mouse
+Rodentia,Muridae,Grammomys,poensis,1.55,50.2,Western Rainforest Grammomys
+Rodentia,Muridae,Gerbilliscus,afra,1.56,65,Cape Gerbil
+Rodentia,Muridae,Gerbilliscus,brantsii,1.56,91.7,Highveld Gerbil
+Rodentia,Octodontidae,Spalacopus,cyanus,1.58,93,Coruro
+Rodentia,Sciuridae,Tamias,minimus,1.6,45.3,Least Chipmunk
+Rodentia,Sciuridae,Spermophilus,canus,1.6,154,Merriam's Ground Squirrel
+Rodentia,Muridae,Maxomys,whiteheadi,1.62,46.3,Whitehead s Sundaic Maxomys
+Rodentia,Muridae,Rattus,lutreolus,1.64,92.7,Australian Swamp Rat
+Rodentia,Cricetidae,Arvicola,amphibius,1.64,168.3,Eurasian Water Vole
+Rodentia,Muridae,Cremnomys,cutchicus,1.67,50,Cutch Cremnomys
+Rodentia,Sciuridae,Spermophilus,mollis,1.67,117.1,Piute Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,tereticaudus,1.68,133.3,Round-tailed Ground Squirrel
+Rodentia,Muridae,Rattus,fuscipes,1.69,122,Australian Bush Rat
+Rodentia,Sciuridae,Tamias,quadrivittatus,1.7,62.3,Colorado Chipmunk
+Rodentia,Muridae,Rattus,nitidus,1.7,101,Himalayan Field Rat
+Rodentia,Muridae,Rattus,sordidus,1.7,120.67,Canefield Rat
+Rodentia,Sciuridae,Glaucomys,volans,1.71,73.1,Southern Flying Squirrel
+Rodentia,Cricetidae,Isthmomys,pirrensis,1.71,138,Mount Pirri Deermouse
+Rodentia,Heteromyidae,Dipodomys,deserti,1.74,122.45,Desert Kangaroo Rat
+Rodentia,Sciuridae,Spermophilus,washingtoni,1.8,186.5,Washington Ground Squirrel
+Rodentia,Sciuridae,Tamias,panamintinus,1.83,51.2,Panamint Chipmunk
+Rodentia,Geomyidae,Geomys,bursarius,1.83,197.25,Plains Pocket Gopher
+Rodentia,Muridae,Tatera,indica,1.84,139.7,Antelope Rat
+Rodentia,Sciuridae,Tamias,speciosus,1.86,59.9,Lodgepole Chipmunk
+Rodentia,Muridae,Paramelomys,levipes,1.86,83.4,Papuan Lowland Paramelomys
+Rodentia,Sciuridae,Hylopetes,spadiceus,1.87,87.5,Red-cheeked Flying Squirrel
+Rodentia,Spalacidae,Spalax,ehrenbergi,1.88,197,Middle East Blind Mole Rat
+Rodentia,Spalacidae,Tachyoryctes,splendens,1.88,234,East African Mole Rat
+Rodentia,Sciuridae,Spermophilus,townsendii,1.89,149.5,Townsend's Ground Squirrel
+Rodentia,Muridae,Rattus,morotaiensis,1.92,134.1,Halmahara Rat
+Rodentia,Heteromyidae,Dipodomys,spectabilis,1.93,144.55,Banner-tailed Kangaroo Rat
+Rodentia,Ctenodactylidae,Pectinator,spekei,1.93,180,Speke s Pectinator
+Rodentia,Sciuridae,Tamiops,mcclellandii,1.95,39,Himalayan Striped Squirrel
+Rodentia,Sciuridae,Tamias,dorsalis,1.98,62.2,Cliff Chipmunk
+Rodentia,Sciuridae,Tamias,palmeri,1.99,60.8,Palmer's Chipmunk
+Rodentia,Sciuridae,Spermophilus,mohavensis,2.03,154,Mohave Ground Squirrel
+Rodentia,Sciuridae,Funambulus,pennantii,2.1,85.9,Northern Palm Squirrel
+Rodentia,Sciuridae,Spermophilus,brunneus,2.11,116.8,Idaho Ground Squirrel
+Rodentia,Sciuridae,Tamias,quadrimaculatus,2.16,82.3,Long-eared Chipmunk
+Rodentia,Sciuridae,Tamias,striatus,2.17,94.3,Eastern Chipmunk
+Rodentia,Cricetidae,Neotoma,albigula,2.17,223.1,White-throated Woodrat
+Rodentia,Sciuridae,Ammospermophilus,leucurus,2.25,105.85,White-tailed Antelope Squirrel
+Rodentia,Sciuridae,Spermophilus,tridecemlineatus,2.27,149.8,Thirteen-lined Ground Squirrel
+Rodentia,Geomyidae,Geomys,breviceps,2.29,138.8,Baird s Pocket Gopher.
+Rodentia,Ctenodactylidae,Massoutiera,mzabi,2.32,182.6,Mzab Gundi
+Rodentia,Sciuridae,Spermophilus,spilosoma,2.37,132.7,Spotted Ground Squirrel
+Rodentia,Sciuridae,Ammospermophilus,harrisii,2.405,107.15,Harris s Antelope Squirrel
+Rodentia,Sciuridae,Tamias,townsendii,2.44,89.4,Townsend's Chipmunk
+Rodentia,Sciuridae,Spermophilus,pygmaeus,2.44,235.2,Little Ground Squirrel
+Rodentia,Sciuridae,Ammospermophilus,interpres,2.5,94.45,Texas Antelope Squirrel
+Rodentia,Muridae,Maxomys,surifer,2.54,146.6,Indomalayan Maxomys
+Rodentia,Sciuridae,Ammospermophilus,insularis,2.55,101.99,Espiritu Santo Island Antelope Squirrel
+Rodentia,Sciuridae,Spermophilus,suslicus,2.55,218.2,Speckled Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,musicus,2.62,136,Caucasian Mountain Ground Squirrel
+Rodentia,Sciuridae,Ammospermophilus,nelsoni,2.625,167.25,Nelson s Antelope Squirrel
+Rodentia,Cricetidae,Neotoma,cinerea,2.65,331.3,Bushy-tailed Woodrat
+Rodentia,Cricetidae,Neotoma,fuscipes,2.66,193.3,Dusky-footed Woodrat
+Rodentia,Cricetidae,Neotoma,micropus,2.66,378.3,Southern Plains Woodrat
+Rodentia,Sciuridae,Spermophilus,madrensis,2.715,151.5,Sierra Madre Ground Squirrel
+Rodentia,Cricetidae,Neofiber,alleni,2.72,270.5,Round-tailed Muskrat
+Rodentia,Caviidae,Galea,musteloides,2.72,375,Common Yellow-toothed Cavy
+Rodentia,Sciuridae,Spermophilus,dauricus,2.75,223.8,Daurian Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,elegans,2.76,307.1,Wyoming Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,perotensis,2.79,140,Perote Ground Squirrel
+Rodentia,Sciuridae,Paraxerus,cepapi,2.85,216,Smith's Bush Squirrel
+Rodentia,Sciuridae,Spermophilus,alashanicus,2.89,200,Alashan Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,citellus,2.89,288.5,European Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,beldingi,2.96,246.9,Belding's Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,adocetus,3.01,155.52,Tropical Ground Squirrel
+Rodentia,Sciuridae,Glaucomys,sabrinus,3.01,174,Northern Flying Squirrel
+Rodentia,Cricetidae,Neotoma,floridana,3.04,257.7,Eastern Woodrat
+Rodentia,Sciuridae,Spermophilus,xanthoprymnus,3.04,267.9,Asia Minor Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,lateralis,3.06,168.85,Golden-mantled Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,armatus,3.09,371.1,Uinta Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,richardsonii,3.18,331.5,Richardson's Ground Squirrel
+Rodentia,Sciuridae,Iomys,horsfieldii,3.38,155.5,Javanese Flying Squirrel
+Rodentia,Sciuridae,Spermophilus,saturatus,3.38,242.7,Ground Squirrels
+Rodentia,Muridae,Leopoldamys,siporanus,3.39,332.7,Mentawai Archipelago Leopoldamys
+Rodentia,Sciuridae,Spermophilus,erythrogenys,3.44,351,Red-cheeked Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,relictus,3.49,340.5,Relict Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,mexicanus,3.5,274.5,Mexican Ground Squirrel
+Rodentia,Muridae,Sundamys,muelleri,3.5,311.6,Müller s Sundamys
+Rodentia,Sciuridae,Pteromyscus,pulverulentus,3.55,400,Smoky Flying Squirrel
+Rodentia,Sciuridae,Spermophilus,undulatus,3.73,677.3,Long-tailed Ground Squirrel
+Rodentia,Bathyergidae,Bathyergus,suillus,3.75,1175,Cape Dune Mole-rat
+Rodentia,Sciuridae,Tamiasciurus,hudsonicus,3.83,188.9,American red squirrel
+Rodentia,Sciuridae,Spermophilus,columbianus,3.95,465.8,Columbian Ground Squirrel
+Rodentia,Sciuridae,Spermophilus,franklinii,3.96,443.05,Franklin's Ground Squirrel
+Rodentia,Muridae,Leopoldamys,sabanus,3.98,332.7,Indomalayan Leopoldamys
+Rodentia,Sciuridae,Heliosciurus,gambianus,3.99,295,Gambian Sun Squirrel
+Rodentia,Caviidae,Cavia,aperea,4.04,306.45,Brazilian Guinea Pig
+Rodentia,Sciuridae,Spermophilus,major,4.12,535,Russet Ground Squirrel
+Rodentia,Echimyidae,Hoplomys,gymnurus,4.13,330,Armored Rat
+Rodentia,Sciuridae,Funisciurus,anerythrus,4.14,218,Thomas's Rope Squirrel
+Rodentia,Sciuridae,Rhinosciurus,laticaudatus,4.28,240,Ant-eating squirrel
+Rodentia,Muridae,Hydromys,chrysogaster,4.33,698,Common Water Rat
+Rodentia,Sciuridae,Funisciurus,pyrropus,4.38,200,Fire-footed Rope Squirrel
+Rodentia,Sciuridae,Callosciurus,nigrovittatus,4.44,202,Black-striped Squirrel
+Rodentia,Capromyidae,Geocapromys,ingrahami,4.46,717.3,Bahamian Hutia
+Rodentia,Sciuridae,Funisciurus,carruthersi,4.48,268,Carruther's Mountain Squirrel
+Rodentia,Sciuridae,Spermophilus,fulvus,4.55,720,Large-toothed souslik
+Rodentia,Muridae,Mesembriomys,gouldii,4.59,1110,Black-footed Mesembriomys
+Rodentia,Muridae,Berylmys,bowersi,4.63,360.7,Bower s Berylmys
+Rodentia,Muridae,Leopoldamys,edwardsi,4.81,332.1,Edward s Leopoldamys
+Rodentia,Sciuridae,Callosciurus,notatus,4.91,209.5,Plantain Squirrel
+Rodentia,Cricetidae,Ondatra,zibethicus,5.03,1136.45,Common Muskrat
+Rodentia,Sciuridae,Xerus,rutilus,5.09,317.5,Unstriped Ground Squirrel
+Rodentia,Sciuridae,Cynomys,gunnisoni,5.14,642.3,Gunnison's Prairie Dog
+Rodentia,Sciuridae,Spermophilus,atricapillus,5.24,427.5,Baja California Rock Squirrel
+Rodentia,Sciuridae,Heliosciurus,ruwenzorii,5.4,291,Ruwenzori Sun Squirrel
+Rodentia,Sciuridae,Dremomys,rufigenis,5.41,240,Asian Red-cheeked Squirrel
+Rodentia,Sciuridae,Spermophilus,beecheyi,5.42,564.9,California Ground Squirrel
+Rodentia,Sciuridae,Cynomys,mexicanus,5.525,998,Mexican Prairie Dog
+Rodentia,Sciuridae,Cynomys,parvidens,5.58,576,Utah Prairie Dog
+Rodentia,Sciuridae,Cynomys,ludovicianus,5.69,865.15,Arizona black-tailed prairie dog
+Rodentia,Sciuridae,Heliosciurus,rufobrachium,5.75,326,Red-legged Sun Squirrel
+Rodentia,Sciuridae,Cynomys,leucurus,5.77,1021.15,White-tailed Prairie Dog
+Rodentia,Sciuridae,Spermophilus,parryii,5.78,462.8,Arctic Ground Squirrel
+Rodentia,Sciuridae,Sciurus,granatensis,5.91,400,Red-tailed Squirrel
+Rodentia,Sciuridae,Sciurus,vulgaris,5.93,327.4,Eurasian Red Squirrel
+Rodentia,Sciuridae,Callosciurus,caniceps,6.02,240,Gray-bellied Squirrel
+Rodentia,Sciuridae,Spermophilopsis,leptodactylus,6.18,495,Long-clawed Ground Squirrel
+Rodentia,Sciuridae,Callosciurus,prevostii,6.52,439,Prevost's Squirrel
+Rodentia,Nesomyidae,Cricetomys,gambianus,6.57,1150,Gambian Rat
+Rodentia,Sciuridae,Xerus,erythropus,6.68,722.5,Striped Ground Squirrel
+Rodentia,Echimyidae,Proechimys,semispinosus,6.87,544.75,Tome s Spiny-rat
+Rodentia,Sciuridae,Spermophilus,variegatus,7.01,703.15,Rock Squirrel
+Rodentia,Aplodontiidae,Aplodontia,rufa,7.04,806,Mountain Beaver
+Rodentia,Sciuridae,Sciurus,carolinensis,7.41,503.17,Eastern Gray Squirrel
+Rodentia,Sciuridae,Sciurus,aberti,7.44,626.5,Abert's Squirrel
+Rodentia,Sciuridae,Xerus,inauris,7.65,400,Cape ground squirrel
+Rodentia,Sciuridae,Petaurista,elegans,7.76,924,Spotted Giant Flying Squirrel
+Rodentia,Sciuridae,Sciurus,aureogaster,7.81,595,Mexican gray squirrel
+Rodentia,Sciuridae,Sciurus,niger,7.91,516.32,Eastern Fox Squirrel
+Rodentia,Sciuridae,Ratufa,affinis,9.85,982.5,Pale Giant Squirrel
+Rodentia,Sciuridae,Aeromys,tephromelas,10.34,1189,Black Flying Squirrel
+Rodentia,Sciuridae,Ratufa,bicolor,11.01,1320,Black Giant Squirrel
+Rodentia,Sciuridae,Protoxerus,stangeri,11.33,639.5,Forest Giant Squirrel
+Rodentia,Sciuridae,Marmota,menzbieri,11.4,3015,Menzbier's Marmot
+Rodentia,Sciuridae,Petaurista,petaurista,11.77,1811.5,Red Giant Flying Squirrel
+Rodentia,Sciuridae,Marmota,flaviventris,12.27,3350.5,Yellow-bellied Marmot
+Rodentia,Sciuridae,Marmota,bobak,12.56,4922,Bobak Marmot
+Rodentia,Sciuridae,Marmota,camtschatica,12.63,3314.5,Black-capped Marmot
+Rodentia,Chinchillidae,Lagostomus,maximus,12.66,4270.75,Argentine Plains Viscacha
+Rodentia,Thryonomyidae,Thryonomys,swinderianus,13.28,1625,Greater Cane Rat
+Rodentia,Sciuridae,Marmota,vancouverensis,13.68,4250,Vancouver Island Marmot
+Rodentia,Sciuridae,Marmota,sibirica,13.74,6500,Tarbagan Marmot
+Rodentia,Sciuridae,Marmota,baibacina,13.75,5375,Gray Marmot
+Rodentia,Sciuridae,Marmota,broweri,13.94,3405,Alaska Marmot
+Rodentia,Sciuridae,Marmota,monax,14.185,2804.5,Groundhog
+Rodentia,Sciuridae,Marmota,marmota,14.25,3813.65,Alpine Marmot
+Rodentia,Sciuridae,Marmota,caudata,14.28,4242,Long-tailed Marmot
+Rodentia,Sciuridae,Marmota,caligata,14.63,6300,Hoary Marmot
+Rodentia,Sciuridae,Marmota,olympus,15.43,3478.8,Olympic Marmot
+Rodentia,Sciuridae,Marmota,himalayana,16.71,6607.5,Himalayan Marmot
+Rodentia,Myocastoridae,Myocastor,coypus,17.09,7052,Coypu
+Rodentia,Dasyproctidae,Dasyprocta,punctata,18.34,3172,Central American Agouti
+Rodentia,Erethizontidae,Erethizon,dorsata,24.6,5397,North American Porcupine
+Rodentia,Dinomyidae,Dinomys,branickii,26.95,14000,Pacarana
+Rodentia,Cuniculidae,Cuniculus,paca,35.22,4607,Lowland Paca
+Rodentia,Caviidae,Cavia,porcellus,4.83,476,Domesticated Guinea Pig
+Rodentia,Heteromyidae,Chaetodipus,spinatus,0.48,19.1,Spiny Pocket Mouse
+Rodentia,Heteromyidae,Perognathus,parvus,0.49,17.3,Great Basin Pocket Mouse
+Rodentia,Heteromyidae,Chaetodipus,fallax,0.54,20.3,San Diego Pocket Mouse
+Rodentia,Heteromyidae,Microdipodops,pallidus,0.55,12.9,Pale Kangaroo Mouse
+Rodentia,Heteromyidae,Liomys,irroratus,1.06,57.7,Mexican Spiny Pocket Mouse
+Rodentia,Heteromyidae,Dipodomys,panamintinus,1.6,74,Panamint Kangaroo Rat
+Rodentia,Geomyidae,Geomys,pinetis,2.51,313.5,Southeastern Pocket Gopher
+Rodentia,Geomyidae,Orthogeomys,cherriei,3.47,405,Cherrie s Pocket Gopher.
+Rodentia,Geomyidae,Zygogeomys,trichopus,3.95,545,Michoacan Pocket Gopher
+Rodentia,Geomyidae,Cratogeomys,fumosus,4.19,637,Smoky Pocket Gopher
+Rodentia,Geomyidae,Orthogeomys,heterodus,4.31,630,Variable Pocket Gopher
+Rodentia,Muridae,Apodemus,agrarius,0.2,33.3,Striped Field Mouse
+Rodentia,Muridae,Mus,musculus,0.4,15.1,Eastern house mouse
+Rodentia,Dipodidae,Zapus,trinotatus,0.5,27.5,Pacific Jumping Mouse
+Rodentia,Cricetidae,Akodon,azarae,0.642,25,Azara s Akodont
+Rodentia,Cricetidae,Cricetulus,barabensis,0.6699,29.89,Striped Dwarf Hamster
+Rodentia,Cricetidae,Ochrotomys,nuttalli,0.7,20.6,Golden Mouse
+Rodentia,Muridae,Acomys,cahirinus,0.7,31,Northeast African Spiny Mouse
+Rodentia,Muridae,Mastomys,natalensis,0.719,46.026,Coucha Rat
+Rodentia,Cricetidae,Mesocricetus,auratus,1,120,Golden Hamster
+Rodentia,Muridae,Psammomys,obesus,1.3,69.1,Fat Sand Rat
+Rodentia,Muridae,Rattus,rattus,1.4,150,Black Rat
+Rodentia,Cricetidae,Lemmus,sibiricus,1.49,70,Black-footed Lemming
+Rodentia,Cricetidae,Holochilus,chacarius,1.61,204,Chaco Marsh Rat
+Rodentia,Sciuridae,Tamias,cinereicollis,1.8,61.7,Gray-collared Chipmunk
+Rodentia,Gliridae,Glis,glis,1.9,148,Edible dormouse
+Rodentia,Octodontidae,Octodon,degus,2.1,210,Degu
+Rodentia,Cricetidae,Cricetus,cricetus,2.2,297,Black-bellied Hamster
+Rodentia,Geomyidae,Thomomys,bulbivorus,2.2,344,Camas Pocket Gopher
+Rodentia,Dipodidae,Jaculus,orientalis,2.5,98,Greater Egyptian Jerboa
+Rodentia,Echimyidae,Mesomys,hispidus,2.64,175,Ferreira s Spiny Tree-rat
+Rodentia,Echimyidae,Proechimys,brevicauda,2.95,285,Short-tailed Spiny-rat
+Rodentia,Spalacidae,Spalax,leucodon,3,122,Lesser Blind Mole Rat
+Rodentia,Echimyidae,Makalata,didelphoides,3.45,108,Brazilian spiny tree-rat
+Rodentia,Dipodidae,Allactaga,sibirica,3.5,193,Mongolian Five-toed Jerboa
+Rodentia,Echimyidae,Clyomys,laticeps,3.52,201,Broad-headed Spiny Rat
+Rodentia,Echimyidae,Makalata,macrura,3.89,439,Long-tailed Armored Tree-rat
+Rodentia,Geomyidae,Orthogeomys,hispidus,3.98,542.1,Hispid Pocket Gopher
+Rodentia,Echimyidae,Echimys,chrysurus,5.02,652,White-faced Spiny Tree-rat
+Rodentia,Chinchillidae,Chinchilla,lanigera,6.8,372,Long-tailed Chinchilla
+Rodentia,Muridae,Rattus,norvegicus,8.03,359.5,Brown Rat
+Rodentia,Sciuridae,Ratufa,indica,11.4,1935,Indian Giant Squirrel
+Rodentia,Erethizontidae,Sphiggurus,vestitus,11.71,736,Brown Hairy Dwarf Porcupine
+Rodentia,Hystricidae,Trichys,fasciculata,13.05,1560,Long-tailed Porcupine
+Rodentia,Chinchillidae,Lagidium,viscacia,15.08,2460.5,Southern Moutain Viscacha
+Rodentia,Caviidae,Dolichotis,salinicola,15.31,1600,Chacoan Mara
+Rodentia,Erethizontidae,Coendou,prehensilis,16.73,4400,Brazilian Porcupine
+Rodentia,Erethizontidae,Coendou,rothschildi,20.85,2000,Rothchild s Porcupine
+Rodentia,Dasyproctidae,Dasyprocta,leporina,21.26,2873,Brazilian agouti
+Rodentia,Dasyproctidae,Dasyprocta,prymnolopha,21.62,2900,Black-rumped Agouti
+Rodentia,Hystricidae,Atherurus,africanus,21.89,3152.5,African Brush-tailed Porcupine
+Rodentia,Hystricidae,Hystrix,sumatrae,27.04,3260,Sumatran Porcupine
+Rodentia,Caviidae,Dolichotis,patagonum,30.5,8000,Patagonian Mara
+Rodentia,Hystricidae,Atherurus,macrourus,31.57,2000,Asiatic Brush-tailed Porcupine
+Rodentia,Hystricidae,Hystrix,cristata,32.4,15000,Crested Porcupine
+Rodentia,Hystricidae,Hystrix,africaeaustralis,35.71,14936,Cape Porcupine
+Rodentia,Hystricidae,Hystrix,brachyura,37.64,8000,Malayan Porcupine
+Rodentia,Hystricidae,Hystrix,indica,44.07,14650,Indian Crested Porcupine
+Rodentia,Castoridae,Castor,canadensis,52.21,27670,American Beaver
+Rodentia,Caviidae,Hydrochoeris,hydrochaeris,75,28500,Capybara
+Scandentia,Tupaiidae,Tupaia,javanica,2.3,80,Horsfield s Treeshrew
+Scandentia,Tupaiidae,Tupaia,minor,2.58,70,Pygmy Tree Shrew
+Scandentia,Tupaiidae,Tupaia,glis,3.2,170,Common Tree Shrew
+Scandentia,Tupaiidae,Urogale,everetti,4.28,275,Mindanao Tree Shrew
+Sirenia,Dugongidae,Dugong,dugon,264.67,281000,Dugong
+Sirenia,Trichechidae,Trichechus,manatus,364,756000,Caribbean manatee
+Soricomorpha,Soricidae,Suncus,etruscus,0.07,2.24,Etruscan Shrew
+Soricomorpha,Soricidae,Sorex,hoyi,0.09,3.05,American Pygmy Shrew
+Soricomorpha,Soricidae,Sorex,ornatus,0.12,5,Ornate Shrew
+Soricomorpha,Soricidae,Cryptotis,parva,0.12,5.3,Least Shrew
+Soricomorpha,Soricidae,Sorex,minutus,0.13,4.6,Eurasian Pygmy Shrew
+Soricomorpha,Soricidae,Crocidura,fuscomurina,0.13,5.6,Bicolored Musk Shrew
+Soricomorpha,Soricidae,Notiosorex,crawfordi,0.15,6,Crawford's Gray Shrew
+Soricomorpha,Soricidae,Sorex,cinereus,0.17,3.9,Cinereus Shrew
+Soricomorpha,Soricidae,Sorex,vagrans,0.17,5.3,Vagrant Shrew
+Soricomorpha,Soricidae,Crocidura,russula,0.19,10.45,Greater White-toothed Shrew
+Soricomorpha,Soricidae,Sorex,trowbridgii,0.21,5.3,Trowbridge's Shrew
+Soricomorpha,Soricidae,Sorex,fumeus,0.21,8.9,Smoky Shrew
+Soricomorpha,Soricidae,Sorex,monticolus,0.23,6.3,Dusky Shrew
+Soricomorpha,Soricidae,Sorex,araneus,0.23,8.9,Common Shrew
+Soricomorpha,Soricidae,Sorex,arcticus,0.27,8.2,Arctic Shrew
+Soricomorpha,Soricidae,Blarina,brevicauda,0.29,17.7,Northern Short-tailed Shrew
+Soricomorpha,Soricidae,Sorex,palustris,0.31,11.9,American Water Shrew
+Soricomorpha,Soricidae,Neomys,fodiens,0.31,16.35,Eurasian Water Shrew
+Soricomorpha,Soricidae,Suncus,murinus,0.39,35,Asian House Shrew
+Soricomorpha,Soricidae,Surdisorex,polulus,0.4,18.6,Mt. Kenya Mole Shrew
+Soricomorpha,Talpidae,Neurotrichus,gibbsii,0.91,10,American Shrew Mole
+Soricomorpha,Talpidae,Condylura,cristata,1.37,50,Star-nosed Mole
+Soricomorpha,Talpidae,Talpa,europaea,1.4,77.83,Common mole
+Soricomorpha,Talpidae,Scalopus,aquaticus,1.48,39.6,Eastern Mole
+Soricomorpha,Talpidae,Scapanus,townsendii,2.02,70,Townsend s Mole
+Soricomorpha,Talpidae,Galemys,pyrenaicus,1.33,57.5,Pyrenean Desman
+Soricomorpha,Talpidae,Desmana,moschata,4,440,Desman
+Soricomorpha,Solenodontidae,Solenodon,paradoxus,4.67,900,Haitian solenodon
+Tubulidentata,Orycteropodidae,Orycteropus,afer,79.5,44650,Aardvark
