@@ -4,7 +4,7 @@ This is what the Wikipedia's [entry on the koala](https://en.wikipedia.org/wiki/
 
 > The koala has one of the smallest brains in proportion to body weight of any mammal,[40] being 60% smaller than that of a typical diprotodont, weighing only 19.2 g (0.68 oz) on average.[41] The brain's surface is fairly smooth, typical for a "primitive" animal.[42] It occupies only 61% of the cranial cavity[40] and is pressed against the inside surface by cerebrospinal fluid.
 
-In [koala_brain_size.ipynb](./koala_brain_size.ipynb), I analyzed a publicly available dataset with R to demonstrate that this paragraph is highly misleading. I will explain the regression analysis that scientists use to compare brains, and show that when analyzed properly, the koala brain is not exceptionally small. In fact, its size is typical for marsupials. Please read my [blog post](https://hhyu.org/posts/koala) about this analysis.
+In [koala_brain_size.ipynb](./koala_brain_size.ipynb), I analyzed a publicly available dataset with R to demonstrate that this paragraph is highly misleading. I will explain the method that scientists use to compare brains, and show that when analyzed properly, the koala brain is not exceptionally small. In fact, its size is typical for marsupials. Please read my [blog post](https://hhyu.org/posts/koala) about this analysis.
 
 ### Data
 The dataset is based on:
